@@ -1,0 +1,2071 @@
+PRODUCT,STUDENT_ID,GRADE,CUSTOMER_NAME,COMPLETED_PLACEMENT
+my_math_academy,1908733,1st Grade,School A,true
+my_reading_academy,1908733,1st Grade,School A,true
+my_reading_academy,1908736,1st Grade,School A,true
+my_math_academy,1908980,1st Grade,School A,true
+my_reading_academy,1908980,1st Grade,School A,true
+my_math_academy,1908982,1st Grade,School A,true
+my_reading_academy,1908982,1st Grade,School A,true
+my_reading_academy,1908983,1st Grade,School A,true
+my_math_academy,1908984,1st Grade,School A,true
+my_reading_academy,1908984,1st Grade,School A,true
+my_math_academy,1908987,1st Grade,School A,true
+my_reading_academy,1908987,1st Grade,School A,true
+my_math_academy,1908990,1st Grade,School A,true
+my_reading_academy,1908990,1st Grade,School A,true
+my_math_academy,1908991,1st Grade,School A,true
+my_reading_academy,1908991,1st Grade,School A,true
+my_math_academy,1909065,1st Grade,School A,true
+my_reading_academy,1909065,1st Grade,School A,true
+my_math_academy,1909069,1st Grade,School A,true
+my_reading_academy,1909069,1st Grade,School A,true
+my_reading_academy,1909139,1st Grade,School A,true
+my_math_academy,1909143,1st Grade,School A,true
+my_reading_academy,1909143,1st Grade,School A,true
+my_math_academy,1909144,1st Grade,School A,true
+my_math_academy,1909345,1st Grade,School A,true
+my_reading_academy,1909345,1st Grade,School A,true
+my_math_academy,1909346,1st Grade,School A,true
+my_reading_academy,1909346,1st Grade,School A,true
+my_math_academy,1909347,1st Grade,School A,true
+my_reading_academy,1909347,1st Grade,School A,true
+my_math_academy,1909348,1st Grade,School A,true
+my_reading_academy,1909348,1st Grade,School A,true
+my_math_academy,1909349,1st Grade,School A,true
+my_reading_academy,1909349,1st Grade,School A,true
+my_math_academy,1909351,1st Grade,School A,true
+my_reading_academy,1909351,1st Grade,School A,true
+my_math_academy,1909352,1st Grade,School A,true
+my_reading_academy,1909352,1st Grade,School A,true
+my_math_academy,1909353,1st Grade,School A,true
+my_reading_academy,1909353,1st Grade,School A,true
+my_math_academy,1909477,1st Grade,School A,true
+my_reading_academy,1909478,1st Grade,School A,true
+my_math_academy,1909479,1st Grade,School A,true
+my_reading_academy,1909479,1st Grade,School A,true
+my_math_academy,1909480,1st Grade,School A,true
+my_math_academy,1909481,1st Grade,School A,false
+my_reading_academy,1909481,1st Grade,School A,true
+my_math_academy,1909483,1st Grade,School A,true
+my_reading_academy,1909483,1st Grade,School A,true
+my_reading_academy,1909490,1st Grade,School A,true
+my_math_academy,1909624,1st Grade,School A,false
+my_reading_academy,1909624,1st Grade,School A,false
+my_reading_academy,1909646,1st Grade,School A,true
+my_math_academy,1909796,1st Grade,School A,true
+my_reading_academy,1909796,1st Grade,School A,true
+my_math_academy,1909800,1st Grade,School A,true
+my_reading_academy,1909800,1st Grade,School A,true
+my_math_academy,1909802,1st Grade,School A,true
+my_reading_academy,1909802,1st Grade,School A,true
+my_math_academy,1909805,1st Grade,School A,true
+my_reading_academy,1909805,1st Grade,School A,true
+my_math_academy,1909809,1st Grade,School A,true
+my_reading_academy,1909809,1st Grade,School A,true
+my_math_academy,1909810,1st Grade,School A,true
+my_reading_academy,1909810,1st Grade,School A,true
+my_math_academy,1909812,1st Grade,School A,true
+my_reading_academy,1909812,1st Grade,School A,true
+my_math_academy,1909814,1st Grade,School A,true
+my_reading_academy,1909814,1st Grade,School A,true
+my_math_academy,1909816,1st Grade,School A,true
+my_reading_academy,1909816,1st Grade,School A,true
+my_math_academy,1909817,1st Grade,School A,true
+my_reading_academy,1909817,1st Grade,School A,true
+my_math_academy,1909818,1st Grade,School A,true
+my_reading_academy,1909818,1st Grade,School A,true
+my_math_academy,1909819,1st Grade,School A,true
+my_reading_academy,1909819,1st Grade,School A,true
+my_math_academy,1909822,1st Grade,School A,true
+my_reading_academy,1909822,1st Grade,School A,true
+my_math_academy,1909823,1st Grade,School A,true
+my_reading_academy,1909823,1st Grade,School A,true
+my_math_academy,1909824,1st Grade,School A,true
+my_reading_academy,1909824,1st Grade,School A,true
+my_reading_academy,1909987,1st Grade,School A,true
+my_math_academy,1909989,1st Grade,School A,true
+my_reading_academy,1909989,1st Grade,School A,true
+my_math_academy,1909990,1st Grade,School A,true
+my_reading_academy,1909990,1st Grade,School A,true
+my_reading_academy,1909993,1st Grade,School A,true
+my_math_academy,1909994,1st Grade,School A,true
+my_reading_academy,1909994,1st Grade,School A,true
+my_math_academy,1909998,1st Grade,School A,true
+my_reading_academy,1909998,1st Grade,School A,true
+my_math_academy,1909999,1st Grade,School A,true
+my_reading_academy,1909999,1st Grade,School A,true
+my_reading_academy,1910000,1st Grade,School A,true
+my_math_academy,1910003,1st Grade,School A,true
+my_reading_academy,1910003,1st Grade,School A,true
+my_math_academy,1910005,1st Grade,School A,true
+my_reading_academy,1910005,1st Grade,School A,true
+my_math_academy,1910008,1st Grade,School A,true
+my_reading_academy,1910008,1st Grade,School A,true
+my_math_academy,1910011,1st Grade,School A,true
+my_reading_academy,1910011,1st Grade,School A,true
+my_math_academy,1910012,1st Grade,School A,true
+my_reading_academy,1910012,1st Grade,School A,true
+my_math_academy,1910013,1st Grade,School A,true
+my_reading_academy,1910013,1st Grade,School A,true
+my_math_academy,1910014,1st Grade,School A,true
+my_math_academy,1910016,1st Grade,School A,true
+my_reading_academy,1910016,1st Grade,School A,true
+my_math_academy,1910017,1st Grade,School A,true
+my_math_academy,1910018,1st Grade,School A,true
+my_math_academy,1910020,1st Grade,School A,true
+my_reading_academy,1910020,1st Grade,School A,true
+my_math_academy,1910021,1st Grade,School A,true
+my_reading_academy,1910021,1st Grade,School A,true
+my_reading_academy,1910024,1st Grade,School A,true
+my_reading_academy,1910029,1st Grade,School A,true
+my_math_academy,1910030,1st Grade,School A,true
+my_reading_academy,1910030,1st Grade,School A,true
+my_reading_academy,1910031,1st Grade,School A,true
+my_math_academy,1910294,1st Grade,School A,true
+my_reading_academy,1910294,1st Grade,School A,true
+my_math_academy,1910297,1st Grade,School A,true
+my_reading_academy,1910297,1st Grade,School A,true
+my_math_academy,1910298,1st Grade,School A,true
+my_reading_academy,1910298,1st Grade,School A,true
+my_math_academy,1910300,1st Grade,School A,true
+my_reading_academy,1910300,1st Grade,School A,true
+my_math_academy,1910302,1st Grade,School A,true
+my_reading_academy,1910302,1st Grade,School A,true
+my_math_academy,1910303,1st Grade,School A,true
+my_reading_academy,1910303,1st Grade,School A,true
+my_math_academy,1910306,1st Grade,School A,true
+my_reading_academy,1910306,1st Grade,School A,true
+my_math_academy,1910307,1st Grade,School A,true
+my_reading_academy,1910307,1st Grade,School A,true
+my_math_academy,1910310,1st Grade,School A,true
+my_math_academy,1910312,1st Grade,School A,true
+my_reading_academy,1910312,1st Grade,School A,true
+my_reading_academy,1910313,1st Grade,School A,true
+my_math_academy,1910314,1st Grade,School A,true
+my_reading_academy,1910314,1st Grade,School A,true
+my_math_academy,1910316,1st Grade,School A,true
+my_reading_academy,1910316,1st Grade,School A,true
+my_math_academy,1910317,1st Grade,School A,true
+my_reading_academy,1910317,1st Grade,School A,true
+my_math_academy,1910318,1st Grade,School A,true
+my_reading_academy,1910318,1st Grade,School A,true
+my_reading_academy,1910321,1st Grade,School A,true
+my_math_academy,1910327,1st Grade,School A,true
+my_reading_academy,1910327,1st Grade,School A,true
+my_math_academy,1910328,1st Grade,School A,true
+my_math_academy,1910329,1st Grade,School A,true
+my_reading_academy,1910329,1st Grade,School A,true
+my_math_academy,1910330,1st Grade,School A,true
+my_reading_academy,1910331,1st Grade,School A,true
+my_math_academy,1910333,1st Grade,School A,true
+my_reading_academy,1910333,1st Grade,School A,true
+my_math_academy,1910334,1st Grade,School A,true
+my_reading_academy,1910337,1st Grade,School A,true
+my_reading_academy,1910338,1st Grade,School A,true
+my_reading_academy,1910342,1st Grade,School A,true
+my_reading_academy,1910343,1st Grade,School A,true
+my_reading_academy,1910344,1st Grade,School A,true
+my_reading_academy,1910347,1st Grade,School A,true
+my_math_academy,1912329,1st Grade,School A,true
+my_reading_academy,1912329,1st Grade,School A,true
+my_math_academy,1912330,1st Grade,School A,true
+my_reading_academy,1912330,1st Grade,School A,true
+my_math_academy,1912331,1st Grade,School A,true
+my_reading_academy,1912331,1st Grade,School A,true
+my_math_academy,1912336,1st Grade,School A,true
+my_reading_academy,1912336,1st Grade,School A,true
+my_math_academy,1912337,1st Grade,School A,true
+my_reading_academy,1912337,1st Grade,School A,true
+my_math_academy,1912338,1st Grade,School A,true
+my_reading_academy,1912338,1st Grade,School A,true
+my_math_academy,1912340,1st Grade,School A,true
+my_reading_academy,1912340,1st Grade,School A,true
+my_math_academy,1912341,1st Grade,School A,true
+my_reading_academy,1912341,1st Grade,School A,true
+my_math_academy,1912342,1st Grade,School A,true
+my_reading_academy,1912342,1st Grade,School A,true
+my_math_academy,1912344,1st Grade,School A,true
+my_reading_academy,1912344,1st Grade,School A,true
+my_math_academy,1912346,1st Grade,School A,true
+my_reading_academy,1912346,1st Grade,School A,true
+my_math_academy,1912347,1st Grade,School A,true
+my_reading_academy,1912347,1st Grade,School A,true
+my_math_academy,1912349,1st Grade,School A,true
+my_reading_academy,1912349,1st Grade,School A,true
+my_math_academy,1912350,1st Grade,School A,true
+my_reading_academy,1912350,1st Grade,School A,true
+my_math_academy,1912351,1st Grade,School A,true
+my_reading_academy,1912351,1st Grade,School A,true
+my_math_academy,1912353,1st Grade,School A,true
+my_reading_academy,1912353,1st Grade,School A,true
+my_math_academy,1912354,1st Grade,School A,true
+my_reading_academy,1912354,1st Grade,School A,true
+my_math_academy,1912355,1st Grade,School A,true
+my_reading_academy,1912355,1st Grade,School A,true
+my_math_academy,1912356,1st Grade,School A,true
+my_reading_academy,1912356,1st Grade,School A,true
+my_math_academy,1912472,1st Grade,School A,true
+my_reading_academy,1912472,1st Grade,School A,true
+my_math_academy,1912473,1st Grade,School A,true
+my_reading_academy,1912473,1st Grade,School A,true
+my_math_academy,1912474,1st Grade,School A,true
+my_reading_academy,1912474,1st Grade,School A,true
+my_math_academy,1912476,1st Grade,School A,true
+my_reading_academy,1912476,1st Grade,School A,true
+my_math_academy,1912477,1st Grade,School A,true
+my_reading_academy,1912477,1st Grade,School A,true
+my_math_academy,1912479,1st Grade,School A,true
+my_reading_academy,1912479,1st Grade,School A,true
+my_math_academy,1912481,1st Grade,School A,true
+my_reading_academy,1912481,1st Grade,School A,true
+my_math_academy,1912482,1st Grade,School A,true
+my_reading_academy,1912482,1st Grade,School A,true
+my_math_academy,1912483,1st Grade,School A,true
+my_reading_academy,1912483,1st Grade,School A,true
+my_reading_academy,1912484,1st Grade,School A,true
+my_reading_academy,1912485,1st Grade,School A,true
+my_math_academy,1912486,1st Grade,School A,true
+my_reading_academy,1912486,1st Grade,School A,true
+my_math_academy,1912487,1st Grade,School A,true
+my_reading_academy,1912488,1st Grade,School A,true
+my_math_academy,1912489,1st Grade,School A,true
+my_reading_academy,1912489,1st Grade,School A,true
+my_math_academy,1912490,1st Grade,School A,true
+my_reading_academy,1912490,1st Grade,School A,true
+my_math_academy,1912491,1st Grade,School A,true
+my_reading_academy,1912491,1st Grade,School A,true
+my_reading_academy,1912493,1st Grade,School A,true
+my_reading_academy,1912495,1st Grade,School A,true
+my_reading_academy,1912496,1st Grade,School A,true
+my_reading_academy,1912497,1st Grade,School A,true
+my_math_academy,1912498,1st Grade,School A,true
+my_reading_academy,1912498,1st Grade,School A,true
+my_reading_academy,1912499,1st Grade,School A,true
+my_reading_academy,1912500,1st Grade,School A,true
+my_math_academy,1912634,1st Grade,School A,true
+my_reading_academy,1912634,1st Grade,School A,true
+my_math_academy,1912865,1st Grade,School A,true
+my_reading_academy,1912865,1st Grade,School A,true
+my_reading_academy,1913092,1st Grade,School A,true
+my_reading_academy,1920783,1st Grade,School A,true
+my_math_academy,1920887,1st Grade,School A,true
+my_reading_academy,1920893,1st Grade,School A,true
+my_reading_academy,1920895,1st Grade,School A,true
+my_math_academy,1920898,1st Grade,School A,true
+my_reading_academy,1920898,1st Grade,School A,true
+my_math_academy,1920903,1st Grade,School A,true
+my_reading_academy,1920903,1st Grade,School A,true
+my_math_academy,1921615,1st Grade,School A,true
+my_reading_academy,1921615,1st Grade,School A,true
+my_reading_academy,1921647,1st Grade,School A,true
+my_math_academy,1923613,1st Grade,School A,true
+my_reading_academy,1923613,1st Grade,School A,true
+my_reading_academy,1908994,2nd Grade,School A,true
+my_reading_academy,1908997,2nd Grade,School A,true
+my_reading_academy,1909002,2nd Grade,School A,true
+my_reading_academy,1909003,2nd Grade,School A,true
+my_reading_academy,1909072,2nd Grade,School A,true
+my_reading_academy,1909075,2nd Grade,School A,true
+my_reading_academy,1909149,2nd Grade,School A,true
+my_reading_academy,1909156,2nd Grade,School A,true
+my_reading_academy,1909369,2nd Grade,School A,true
+my_reading_academy,1909370,2nd Grade,School A,true
+my_reading_academy,1909372,2nd Grade,School A,true
+my_reading_academy,1909654,2nd Grade,School A,true
+my_reading_academy,1909655,2nd Grade,School A,true
+my_reading_academy,1909656,2nd Grade,School A,true
+my_reading_academy,1909658,2nd Grade,School A,true
+my_reading_academy,1909660,2nd Grade,School A,true
+my_reading_academy,1909661,2nd Grade,School A,true
+my_reading_academy,1909663,2nd Grade,School A,true
+my_reading_academy,1909665,2nd Grade,School A,true
+my_reading_academy,1909666,2nd Grade,School A,true
+my_reading_academy,1909667,2nd Grade,School A,true
+my_reading_academy,1909669,2nd Grade,School A,true
+my_reading_academy,1909671,2nd Grade,School A,true
+my_reading_academy,1909672,2nd Grade,School A,true
+my_reading_academy,1909675,2nd Grade,School A,true
+my_reading_academy,1909676,2nd Grade,School A,true
+my_reading_academy,1909677,2nd Grade,School A,true
+my_reading_academy,1909828,2nd Grade,School A,true
+my_reading_academy,1909829,2nd Grade,School A,true
+my_reading_academy,1909830,2nd Grade,School A,true
+my_reading_academy,1909832,2nd Grade,School A,true
+my_reading_academy,1909833,2nd Grade,School A,true
+my_reading_academy,1909835,2nd Grade,School A,true
+my_reading_academy,1909836,2nd Grade,School A,true
+my_reading_academy,1909843,2nd Grade,School A,true
+my_reading_academy,1909849,2nd Grade,School A,true
+my_reading_academy,1910032,2nd Grade,School A,true
+my_reading_academy,1910033,2nd Grade,School A,true
+my_reading_academy,1910034,2nd Grade,School A,true
+my_reading_academy,1910037,2nd Grade,School A,true
+my_reading_academy,1910038,2nd Grade,School A,true
+my_reading_academy,1910042,2nd Grade,School A,true
+my_reading_academy,1910051,2nd Grade,School A,true
+my_reading_academy,1910056,2nd Grade,School A,true
+my_reading_academy,1910058,2nd Grade,School A,true
+my_reading_academy,1910060,2nd Grade,School A,true
+my_reading_academy,1910063,2nd Grade,School A,true
+my_reading_academy,1910066,2nd Grade,School A,true
+my_reading_academy,1910374,2nd Grade,School A,true
+my_reading_academy,1910384,2nd Grade,School A,true
+my_reading_academy,1910387,2nd Grade,School A,true
+my_reading_academy,1912358,2nd Grade,School A,true
+my_reading_academy,1912360,2nd Grade,School A,true
+my_reading_academy,1912361,2nd Grade,School A,true
+my_reading_academy,1912362,2nd Grade,School A,true
+my_reading_academy,1912363,2nd Grade,School A,true
+my_reading_academy,1912364,2nd Grade,School A,true
+my_reading_academy,1912367,2nd Grade,School A,true
+my_reading_academy,1912369,2nd Grade,School A,true
+my_reading_academy,1912370,2nd Grade,School A,true
+my_reading_academy,1912372,2nd Grade,School A,true
+my_reading_academy,1912373,2nd Grade,School A,true
+my_reading_academy,1912375,2nd Grade,School A,true
+my_reading_academy,1912377,2nd Grade,School A,true
+my_reading_academy,1912478,2nd Grade,School A,true
+my_reading_academy,1912532,2nd Grade,School A,true
+my_reading_academy,1912534,2nd Grade,School A,true
+my_reading_academy,1912539,2nd Grade,School A,true
+my_reading_academy,1912541,2nd Grade,School A,true
+my_reading_academy,1912542,2nd Grade,School A,true
+my_reading_academy,1912543,2nd Grade,School A,true
+my_reading_academy,1912545,2nd Grade,School A,true
+my_reading_academy,1912546,2nd Grade,School A,true
+my_reading_academy,1912547,2nd Grade,School A,true
+my_reading_academy,1912548,2nd Grade,School A,true
+my_reading_academy,1912549,2nd Grade,School A,true
+my_reading_academy,1912550,2nd Grade,School A,true
+my_reading_academy,1912551,2nd Grade,School A,true
+my_reading_academy,1912552,2nd Grade,School A,true
+my_reading_academy,1912553,2nd Grade,School A,true
+my_reading_academy,1912554,2nd Grade,School A,true
+my_reading_academy,1912555,2nd Grade,School A,true
+my_reading_academy,1912558,2nd Grade,School A,true
+my_reading_academy,1912559,2nd Grade,School A,true
+my_reading_academy,1912560,2nd Grade,School A,true
+my_reading_academy,1912561,2nd Grade,School A,true
+my_reading_academy,1912563,2nd Grade,School A,true
+my_reading_academy,1912564,2nd Grade,School A,true
+my_reading_academy,1912565,2nd Grade,School A,true
+my_reading_academy,1912566,2nd Grade,School A,true
+my_reading_academy,1912569,2nd Grade,School A,true
+my_reading_academy,1920899,2nd Grade,School A,true
+my_reading_academy,1921618,2nd Grade,School A,true
+my_reading_academy,1923419,2nd Grade,School A,true
+my_reading_academy,1909082,3rd Grade,School A,true
+my_reading_academy,1909083,3rd Grade,School A,true
+my_reading_academy,1909085,3rd Grade,School A,true
+my_reading_academy,1909384,3rd Grade,School A,true
+my_reading_academy,1909393,3rd Grade,School A,true
+my_reading_academy,1909396,3rd Grade,School A,true
+my_reading_academy,1909397,3rd Grade,School A,true
+my_reading_academy,1909398,3rd Grade,School A,true
+my_reading_academy,1909399,3rd Grade,School A,true
+my_reading_academy,1909400,3rd Grade,School A,true
+my_reading_academy,1909403,3rd Grade,School A,true
+my_reading_academy,1909404,3rd Grade,School A,true
+my_reading_academy,1909406,3rd Grade,School A,true
+my_reading_academy,1909408,3rd Grade,School A,true
+my_reading_academy,1909416,3rd Grade,School A,true
+my_reading_academy,1909512,3rd Grade,School A,true
+my_reading_academy,1909516,3rd Grade,School A,true
+my_reading_academy,1909517,3rd Grade,School A,true
+my_reading_academy,1909520,3rd Grade,School A,true
+my_reading_academy,1909525,3rd Grade,School A,true
+my_reading_academy,1909533,3rd Grade,School A,true
+my_reading_academy,1909694,3rd Grade,School A,true
+my_reading_academy,1909696,3rd Grade,School A,true
+my_reading_academy,1909698,3rd Grade,School A,true
+my_reading_academy,1909699,3rd Grade,School A,true
+my_reading_academy,1909701,3rd Grade,School A,true
+my_reading_academy,1909702,3rd Grade,School A,true
+my_reading_academy,1909703,3rd Grade,School A,true
+my_reading_academy,1909775,3rd Grade,School A,true
+my_reading_academy,1909853,3rd Grade,School A,true
+my_reading_academy,1909856,3rd Grade,School A,true
+my_reading_academy,1909859,3rd Grade,School A,true
+my_reading_academy,1909862,3rd Grade,School A,true
+my_reading_academy,1909866,3rd Grade,School A,true
+my_reading_academy,1909868,3rd Grade,School A,true
+my_reading_academy,1909869,3rd Grade,School A,true
+my_reading_academy,1909872,3rd Grade,School A,true
+my_reading_academy,1909874,3rd Grade,School A,true
+my_reading_academy,1909875,3rd Grade,School A,true
+my_reading_academy,1910069,3rd Grade,School A,true
+my_reading_academy,1910075,3rd Grade,School A,true
+my_reading_academy,1910084,3rd Grade,School A,true
+my_reading_academy,1910088,3rd Grade,School A,true
+my_reading_academy,1910090,3rd Grade,School A,true
+my_reading_academy,1910145,3rd Grade,School A,true
+my_reading_academy,1910176,3rd Grade,School A,true
+my_reading_academy,1912379,3rd Grade,School A,true
+my_reading_academy,1912382,3rd Grade,School A,true
+my_reading_academy,1912384,3rd Grade,School A,true
+my_reading_academy,1912385,3rd Grade,School A,true
+my_reading_academy,1912388,3rd Grade,School A,true
+my_reading_academy,1912389,3rd Grade,School A,true
+my_reading_academy,1912390,3rd Grade,School A,true
+my_reading_academy,1912391,3rd Grade,School A,true
+my_reading_academy,1912392,3rd Grade,School A,true
+my_reading_academy,1912393,3rd Grade,School A,true
+my_reading_academy,1912395,3rd Grade,School A,true
+my_reading_academy,1912396,3rd Grade,School A,true
+my_reading_academy,1912397,3rd Grade,School A,true
+my_reading_academy,1912399,3rd Grade,School A,true
+my_reading_academy,1912400,3rd Grade,School A,true
+my_reading_academy,1912403,3rd Grade,School A,true
+my_reading_academy,1912405,3rd Grade,School A,true
+my_reading_academy,1912409,3rd Grade,School A,true
+my_reading_academy,1912688,3rd Grade,School A,true
+my_reading_academy,1920894,3rd Grade,School A,true
+my_reading_academy,1909039,4th Grade,School A,true
+my_reading_academy,1909424,4th Grade,School A,true
+my_reading_academy,1909426,4th Grade,School A,true
+my_reading_academy,1909432,4th Grade,School A,true
+my_math_academy,1909433,4th Grade,School A,true
+my_reading_academy,1909433,4th Grade,School A,true
+my_reading_academy,1909439,4th Grade,School A,true
+my_reading_academy,1909706,4th Grade,School A,true
+my_reading_academy,1909708,4th Grade,School A,true
+my_reading_academy,1909709,4th Grade,School A,true
+my_reading_academy,1909711,4th Grade,School A,true
+my_reading_academy,1909715,4th Grade,School A,true
+my_reading_academy,1909716,4th Grade,School A,true
+my_reading_academy,1909718,4th Grade,School A,true
+my_reading_academy,1909720,4th Grade,School A,true
+my_reading_academy,1909722,4th Grade,School A,true
+my_reading_academy,1909724,4th Grade,School A,true
+my_reading_academy,1909725,4th Grade,School A,true
+my_reading_academy,1909727,4th Grade,School A,true
+my_reading_academy,1909728,4th Grade,School A,true
+my_reading_academy,1909729,4th Grade,School A,true
+my_math_academy,1909781,4th Grade,School A,true
+my_reading_academy,1909781,4th Grade,School A,true
+my_math_academy,1909877,4th Grade,School A,true
+my_reading_academy,1909877,4th Grade,School A,true
+my_math_academy,1909878,4th Grade,School A,true
+my_reading_academy,1909878,4th Grade,School A,true
+my_math_academy,1909884,4th Grade,School A,true
+my_reading_academy,1909884,4th Grade,School A,true
+my_math_academy,1909885,4th Grade,School A,true
+my_reading_academy,1909885,4th Grade,School A,true
+my_math_academy,1909886,4th Grade,School A,true
+my_reading_academy,1909886,4th Grade,School A,true
+my_math_academy,1909892,4th Grade,School A,true
+my_reading_academy,1909892,4th Grade,School A,true
+my_math_academy,1909893,4th Grade,School A,true
+my_reading_academy,1909893,4th Grade,School A,true
+my_math_academy,1910092,4th Grade,School A,true
+my_reading_academy,1910092,4th Grade,School A,true
+my_math_academy,1910094,4th Grade,School A,true
+my_reading_academy,1910094,4th Grade,School A,true
+my_math_academy,1910096,4th Grade,School A,true
+my_reading_academy,1910096,4th Grade,School A,true
+my_math_academy,1910097,4th Grade,School A,true
+my_reading_academy,1910097,4th Grade,School A,true
+my_math_academy,1910098,4th Grade,School A,true
+my_reading_academy,1910098,4th Grade,School A,true
+my_math_academy,1910100,4th Grade,School A,true
+my_reading_academy,1910100,4th Grade,School A,true
+my_math_academy,1910101,4th Grade,School A,true
+my_reading_academy,1910101,4th Grade,School A,true
+my_math_academy,1910102,4th Grade,School A,true
+my_reading_academy,1910102,4th Grade,School A,true
+my_math_academy,1910193,4th Grade,School A,true
+my_reading_academy,1910193,4th Grade,School A,true
+my_reading_academy,1910194,4th Grade,School A,true
+my_math_academy,1910196,4th Grade,School A,true
+my_reading_academy,1910196,4th Grade,School A,true
+my_math_academy,1910198,4th Grade,School A,true
+my_reading_academy,1910198,4th Grade,School A,true
+my_math_academy,1910200,4th Grade,School A,true
+my_reading_academy,1910200,4th Grade,School A,true
+my_math_academy,1910204,4th Grade,School A,true
+my_reading_academy,1910204,4th Grade,School A,true
+my_math_academy,1910206,4th Grade,School A,true
+my_math_academy,1910207,4th Grade,School A,true
+my_reading_academy,1910207,4th Grade,School A,true
+my_math_academy,1912410,4th Grade,School A,true
+my_reading_academy,1912410,4th Grade,School A,true
+my_math_academy,1912412,4th Grade,School A,true
+my_reading_academy,1912412,4th Grade,School A,true
+my_math_academy,1912417,4th Grade,School A,true
+my_reading_academy,1912417,4th Grade,School A,true
+my_math_academy,1912418,4th Grade,School A,true
+my_reading_academy,1912418,4th Grade,School A,true
+my_math_academy,1912419,4th Grade,School A,true
+my_reading_academy,1912419,4th Grade,School A,true
+my_reading_academy,1912420,4th Grade,School A,true
+my_math_academy,1912421,4th Grade,School A,true
+my_reading_academy,1912421,4th Grade,School A,true
+my_math_academy,1912422,4th Grade,School A,true
+my_math_academy,1912423,4th Grade,School A,true
+my_reading_academy,1912423,4th Grade,School A,true
+my_math_academy,1912424,4th Grade,School A,true
+my_math_academy,1912428,4th Grade,School A,true
+my_reading_academy,1912428,4th Grade,School A,true
+my_math_academy,1912576,4th Grade,School A,true
+my_reading_academy,1912576,4th Grade,School A,true
+my_reading_academy,1912584,4th Grade,School A,true
+my_reading_academy,1912591,4th Grade,School A,true
+my_math_academy,1921658,4th Grade,School A,true
+my_reading_academy,1921658,4th Grade,School A,true
+my_reading_academy,1922593,4th Grade,School A,true
+my_reading_academy,1922594,4th Grade,School A,true
+my_math_academy,1922595,4th Grade,School A,true
+my_reading_academy,1922595,4th Grade,School A,true
+my_reading_academy,1922596,4th Grade,School A,true
+my_math_academy,1909192,5th Grade,School A,true
+my_reading_academy,1909192,5th Grade,School A,true
+my_math_academy,1909196,5th Grade,School A,true
+my_reading_academy,1909196,5th Grade,School A,true
+my_math_academy,1909198,5th Grade,School A,true
+my_reading_academy,1909198,5th Grade,School A,true
+my_reading_academy,1909199,5th Grade,School A,true
+my_reading_academy,1909200,5th Grade,School A,true
+my_math_academy,1909201,5th Grade,School A,true
+my_math_academy,1909446,5th Grade,School A,true
+my_reading_academy,1909446,5th Grade,School A,true
+my_reading_academy,1909550,5th Grade,School A,true
+my_reading_academy,1909551,5th Grade,School A,true
+my_reading_academy,1909553,5th Grade,School A,true
+my_math_academy,1909556,5th Grade,School A,true
+my_reading_academy,1909556,5th Grade,School A,true
+my_math_academy,1909733,5th Grade,School A,true
+my_reading_academy,1909733,5th Grade,School A,true
+my_math_academy,1909734,5th Grade,School A,true
+my_reading_academy,1909734,5th Grade,School A,true
+my_math_academy,1909735,5th Grade,School A,true
+my_reading_academy,1909735,5th Grade,School A,true
+my_math_academy,1909737,5th Grade,School A,true
+my_reading_academy,1909737,5th Grade,School A,true
+my_math_academy,1909739,5th Grade,School A,true
+my_reading_academy,1909739,5th Grade,School A,true
+my_math_academy,1909742,5th Grade,School A,true
+my_reading_academy,1909742,5th Grade,School A,true
+my_math_academy,1909743,5th Grade,School A,true
+my_reading_academy,1909743,5th Grade,School A,true
+my_math_academy,1909744,5th Grade,School A,true
+my_reading_academy,1909744,5th Grade,School A,true
+my_math_academy,1909790,5th Grade,School A,true
+my_math_academy,1909793,5th Grade,School A,true
+my_reading_academy,1909898,5th Grade,School A,true
+my_reading_academy,1909903,5th Grade,School A,true
+my_reading_academy,1909907,5th Grade,School A,true
+my_reading_academy,1909912,5th Grade,School A,true
+my_reading_academy,1909915,5th Grade,School A,true
+my_math_academy,1910213,5th Grade,School A,true
+my_math_academy,1910218,5th Grade,School A,true
+my_reading_academy,1910218,5th Grade,School A,true
+my_reading_academy,1910219,5th Grade,School A,true
+my_math_academy,1910228,5th Grade,School A,true
+my_reading_academy,1910491,5th Grade,School A,true
+my_reading_academy,1910492,5th Grade,School A,true
+my_reading_academy,1910494,5th Grade,School A,true
+my_math_academy,1910497,5th Grade,School A,true
+my_reading_academy,1910498,5th Grade,School A,true
+my_reading_academy,1910499,5th Grade,School A,true
+my_reading_academy,1910500,5th Grade,School A,true
+my_math_academy,1910508,5th Grade,School A,true
+my_reading_academy,1910508,5th Grade,School A,true
+my_reading_academy,1910509,5th Grade,School A,true
+my_reading_academy,1910513,5th Grade,School A,true
+my_math_academy,1912602,5th Grade,School A,true
+my_reading_academy,1912602,5th Grade,School A,true
+my_math_academy,1912619,5th Grade,School A,true
+my_reading_academy,1912619,5th Grade,School A,true
+my_math_academy,1912620,5th Grade,School A,true
+my_reading_academy,1912620,5th Grade,School A,true
+my_math_academy,1912643,5th Grade,School A,true
+my_reading_academy,1912643,5th Grade,School A,true
+my_math_academy,1912644,5th Grade,School A,true
+my_math_academy,1913077,5th Grade,School A,true
+my_reading_academy,1913077,5th Grade,School A,true
+my_math_academy,1920911,5th Grade,School A,true
+my_reading_academy,1920911,5th Grade,School A,true
+my_math_academy,1920929,5th Grade,School A,true
+my_reading_academy,1920929,5th Grade,School A,true
+my_reading_academy,1922093,5th Grade,School A,true
+my_reading_academy,1908961,Kindergarten,School A,true
+my_reading_academy,1908967,Kindergarten,School A,true
+my_reading_academy,1908969,Kindergarten,School A,true
+my_math_academy,1909127,Kindergarten,School A,true
+my_reading_academy,1909127,Kindergarten,School A,true
+my_math_academy,1909128,Kindergarten,School A,true
+my_reading_academy,1909128,Kindergarten,School A,true
+my_math_academy,1909131,Kindergarten,School A,true
+my_reading_academy,1909131,Kindergarten,School A,true
+my_math_academy,1909134,Kindergarten,School A,true
+my_reading_academy,1909134,Kindergarten,School A,true
+my_math_academy,1909137,Kindergarten,School A,true
+my_reading_academy,1909137,Kindergarten,School A,true
+my_math_academy,1909203,Kindergarten,School A,true
+my_math_academy,1909210,Kindergarten,School A,true
+my_math_academy,1909211,Kindergarten,School A,true
+my_math_academy,1909212,Kindergarten,School A,true
+my_math_academy,1909214,Kindergarten,School A,true
+my_math_academy,1909217,Kindergarten,School A,true
+my_reading_academy,1909217,Kindergarten,School A,true
+my_math_academy,1909218,Kindergarten,School A,true
+my_math_academy,1909222,Kindergarten,School A,true
+my_math_academy,1909463,Kindergarten,School A,true
+my_reading_academy,1909463,Kindergarten,School A,true
+my_reading_academy,1909464,Kindergarten,School A,true
+my_math_academy,1909465,Kindergarten,School A,true
+my_reading_academy,1909467,Kindergarten,School A,true
+my_math_academy,1909470,Kindergarten,School A,true
+my_reading_academy,1909470,Kindergarten,School A,true
+my_math_academy,1909473,Kindergarten,School A,true
+my_reading_academy,1909473,Kindergarten,School A,true
+my_math_academy,1909474,Kindergarten,School A,true
+my_reading_academy,1909474,Kindergarten,School A,true
+my_math_academy,1909475,Kindergarten,School A,true
+my_reading_academy,1909475,Kindergarten,School A,true
+my_math_academy,1909586,Kindergarten,School A,true
+my_reading_academy,1909586,Kindergarten,School A,true
+my_math_academy,1909588,Kindergarten,School A,true
+my_reading_academy,1909588,Kindergarten,School A,true
+my_math_academy,1909589,Kindergarten,School A,true
+my_reading_academy,1909589,Kindergarten,School A,true
+my_math_academy,1909590,Kindergarten,School A,true
+my_reading_academy,1909590,Kindergarten,School A,true
+my_math_academy,1909592,Kindergarten,School A,true
+my_reading_academy,1909592,Kindergarten,School A,true
+my_math_academy,1909596,Kindergarten,School A,true
+my_reading_academy,1909596,Kindergarten,School A,true
+my_math_academy,1909599,Kindergarten,School A,true
+my_reading_academy,1909599,Kindergarten,School A,true
+my_reading_academy,1909601,Kindergarten,School A,true
+my_math_academy,1909602,Kindergarten,School A,true
+my_reading_academy,1909602,Kindergarten,School A,true
+my_math_academy,1909605,Kindergarten,School A,true
+my_reading_academy,1909605,Kindergarten,School A,true
+my_math_academy,1909606,Kindergarten,School A,true
+my_reading_academy,1909606,Kindergarten,School A,true
+my_reading_academy,1909607,Kindergarten,School A,true
+my_math_academy,1909608,Kindergarten,School A,true
+my_math_academy,1909609,Kindergarten,School A,true
+my_reading_academy,1909609,Kindergarten,School A,true
+my_math_academy,1909610,Kindergarten,School A,true
+my_reading_academy,1909610,Kindergarten,School A,true
+my_math_academy,1909611,Kindergarten,School A,true
+my_reading_academy,1909611,Kindergarten,School A,true
+my_math_academy,1909613,Kindergarten,School A,true
+my_reading_academy,1909613,Kindergarten,School A,true
+my_math_academy,1909615,Kindergarten,School A,true
+my_reading_academy,1909615,Kindergarten,School A,true
+my_math_academy,1909616,Kindergarten,School A,true
+my_reading_academy,1909616,Kindergarten,School A,true
+my_reading_academy,1909918,Kindergarten,School A,true
+my_reading_academy,1909919,Kindergarten,School A,true
+my_reading_academy,1909920,Kindergarten,School A,true
+my_reading_academy,1909922,Kindergarten,School A,true
+my_reading_academy,1909923,Kindergarten,School A,true
+my_math_academy,1909924,Kindergarten,School A,true
+my_reading_academy,1909924,Kindergarten,School A,true
+my_math_academy,1909926,Kindergarten,School A,true
+my_reading_academy,1909926,Kindergarten,School A,true
+my_math_academy,1909927,Kindergarten,School A,true
+my_reading_academy,1909927,Kindergarten,School A,true
+my_reading_academy,1909928,Kindergarten,School A,true
+my_reading_academy,1909929,Kindergarten,School A,true
+my_reading_academy,1909930,Kindergarten,School A,true
+my_reading_academy,1909932,Kindergarten,School A,true
+my_reading_academy,1909933,Kindergarten,School A,true
+my_math_academy,1909934,Kindergarten,School A,true
+my_reading_academy,1909934,Kindergarten,School A,true
+my_reading_academy,1909935,Kindergarten,School A,true
+my_reading_academy,1909937,Kindergarten,School A,true
+my_reading_academy,1909938,Kindergarten,School A,true
+my_reading_academy,1909943,Kindergarten,School A,true
+my_math_academy,1909944,Kindergarten,School A,true
+my_reading_academy,1909944,Kindergarten,School A,true
+my_reading_academy,1909945,Kindergarten,School A,true
+my_reading_academy,1909946,Kindergarten,School A,true
+my_reading_academy,1909947,Kindergarten,School A,true
+my_math_academy,1909958,Kindergarten,School A,true
+my_reading_academy,1909958,Kindergarten,School A,true
+my_math_academy,1909960,Kindergarten,School A,true
+my_reading_academy,1909960,Kindergarten,School A,true
+my_math_academy,1909961,Kindergarten,School A,true
+my_reading_academy,1909961,Kindergarten,School A,true
+my_math_academy,1909963,Kindergarten,School A,true
+my_reading_academy,1909963,Kindergarten,School A,true
+my_math_academy,1909965,Kindergarten,School A,true
+my_math_academy,1909970,Kindergarten,School A,true
+my_reading_academy,1909970,Kindergarten,School A,true
+my_math_academy,1909971,Kindergarten,School A,true
+my_reading_academy,1909971,Kindergarten,School A,true
+my_reading_academy,1909973,Kindergarten,School A,true
+my_math_academy,1909976,Kindergarten,School A,true
+my_reading_academy,1909976,Kindergarten,School A,true
+my_math_academy,1909979,Kindergarten,School A,true
+my_reading_academy,1909979,Kindergarten,School A,true
+my_math_academy,1909981,Kindergarten,School A,true
+my_reading_academy,1909981,Kindergarten,School A,true
+my_math_academy,1909983,Kindergarten,School A,true
+my_reading_academy,1909983,Kindergarten,School A,true
+my_math_academy,1909984,Kindergarten,School A,true
+my_reading_academy,1909984,Kindergarten,School A,true
+my_math_academy,1909986,Kindergarten,School A,true
+my_reading_academy,1909986,Kindergarten,School A,true
+my_reading_academy,1910141,Kindergarten,School A,true
+my_math_academy,1910234,Kindergarten,School A,true
+my_reading_academy,1910234,Kindergarten,School A,true
+my_math_academy,1910240,Kindergarten,School A,false
+my_reading_academy,1910240,Kindergarten,School A,true
+my_reading_academy,1910244,Kindergarten,School A,true
+my_reading_academy,1910245,Kindergarten,School A,true
+my_math_academy,1910247,Kindergarten,School A,true
+my_reading_academy,1910247,Kindergarten,School A,true
+my_math_academy,1910248,Kindergarten,School A,true
+my_reading_academy,1910248,Kindergarten,School A,true
+my_math_academy,1910249,Kindergarten,School A,true
+my_math_academy,1910250,Kindergarten,School A,true
+my_math_academy,1910255,Kindergarten,School A,true
+my_reading_academy,1910255,Kindergarten,School A,true
+my_reading_academy,1910261,Kindergarten,School A,true
+my_reading_academy,1910262,Kindergarten,School A,true
+my_math_academy,1910263,Kindergarten,School A,true
+my_reading_academy,1910263,Kindergarten,School A,true
+my_math_academy,1910264,Kindergarten,School A,true
+my_reading_academy,1910264,Kindergarten,School A,true
+my_math_academy,1910266,Kindergarten,School A,true
+my_reading_academy,1910266,Kindergarten,School A,true
+my_math_academy,1910271,Kindergarten,School A,true
+my_reading_academy,1910271,Kindergarten,School A,true
+my_math_academy,1910272,Kindergarten,School A,true
+my_reading_academy,1910272,Kindergarten,School A,true
+my_math_academy,1910273,Kindergarten,School A,true
+my_reading_academy,1910273,Kindergarten,School A,true
+my_math_academy,1910274,Kindergarten,School A,true
+my_math_academy,1910275,Kindergarten,School A,true
+my_reading_academy,1910275,Kindergarten,School A,true
+my_math_academy,1910277,Kindergarten,School A,true
+my_reading_academy,1910277,Kindergarten,School A,true
+my_math_academy,1910278,Kindergarten,School A,true
+my_reading_academy,1910278,Kindergarten,School A,true
+my_math_academy,1910281,Kindergarten,School A,true
+my_reading_academy,1910281,Kindergarten,School A,true
+my_math_academy,1910282,Kindergarten,School A,true
+my_reading_academy,1910282,Kindergarten,School A,true
+my_math_academy,1910285,Kindergarten,School A,true
+my_math_academy,1910288,Kindergarten,School A,true
+my_reading_academy,1910288,Kindergarten,School A,true
+my_math_academy,1910289,Kindergarten,School A,true
+my_reading_academy,1910289,Kindergarten,School A,true
+my_math_academy,1910290,Kindergarten,School A,true
+my_reading_academy,1910290,Kindergarten,School A,true
+my_math_academy,1910291,Kindergarten,School A,true
+my_reading_academy,1910291,Kindergarten,School A,true
+my_math_academy,1910292,Kindergarten,School A,true
+my_reading_academy,1910538,Kindergarten,School A,true
+my_math_academy,1912312,Kindergarten,School A,true
+my_reading_academy,1912318,Kindergarten,School A,true
+my_math_academy,1912323,Kindergarten,School A,true
+my_math_academy,1912325,Kindergarten,School A,true
+my_reading_academy,1912325,Kindergarten,School A,true
+my_reading_academy,1912326,Kindergarten,School A,true
+my_reading_academy,1912328,Kindergarten,School A,true
+my_reading_academy,1912503,Kindergarten,School A,true
+my_reading_academy,1912504,Kindergarten,School A,true
+my_reading_academy,1912505,Kindergarten,School A,true
+my_reading_academy,1912509,Kindergarten,School A,true
+my_math_academy,1912510,Kindergarten,School A,true
+my_reading_academy,1912510,Kindergarten,School A,true
+my_reading_academy,1912511,Kindergarten,School A,true
+my_math_academy,1912516,Kindergarten,School A,true
+my_reading_academy,1912516,Kindergarten,School A,true
+my_math_academy,1912517,Kindergarten,School A,true
+my_math_academy,1912520,Kindergarten,School A,true
+my_math_academy,1912521,Kindergarten,School A,true
+my_reading_academy,1912521,Kindergarten,School A,true
+my_math_academy,1912523,Kindergarten,School A,true
+my_reading_academy,1912523,Kindergarten,School A,true
+my_math_academy,1912691,Kindergarten,School A,true
+my_math_academy,1912692,Kindergarten,School A,true
+my_math_academy,1912693,Kindergarten,School A,true
+my_math_academy,1912696,Kindergarten,School A,true
+my_reading_academy,1912696,Kindergarten,School A,true
+my_math_academy,1912697,Kindergarten,School A,true
+my_reading_academy,1912697,Kindergarten,School A,true
+my_reading_academy,1913075,Kindergarten,School A,true
+my_math_academy,1913090,Kindergarten,School A,true
+my_reading_academy,1922094,Kindergarten,School A,true
+my_math_academy,1908950,Pre-K,School A,true
+my_reading_academy,1908958,Pre-K,School A,true
+my_math_academy,1909454,Pre-K,School A,true
+my_reading_academy,1909454,Pre-K,School A,true
+my_math_academy,1909455,Pre-K,School A,true
+my_reading_academy,1909455,Pre-K,School A,true
+my_reading_academy,1909457,Pre-K,School A,true
+my_math_academy,1909458,Pre-K,School A,true
+my_reading_academy,1909458,Pre-K,School A,true
+my_reading_academy,1909950,Pre-K,School A,true
+my_math_academy,1909951,Pre-K,School A,true
+my_reading_academy,1909951,Pre-K,School A,true
+my_math_academy,1909952,Pre-K,School A,true
+my_reading_academy,1909952,Pre-K,School A,true
+my_math_academy,1909954,Pre-K,School A,true
+my_reading_academy,1909954,Pre-K,School A,true
+my_math_academy,1909956,Pre-K,School A,true
+my_reading_academy,1909956,Pre-K,School A,true
+my_reading_academy,1910135,Pre-K,School A,true
+my_reading_academy,1910137,Pre-K,School A,true
+my_reading_academy,1910230,Pre-K,School A,true
+my_math_academy,1910232,Pre-K,School A,true
+my_reading_academy,1910232,Pre-K,School A,true
+my_reading_academy,1910308,Pre-K,School A,true
+my_reading_academy,1910514,Pre-K,School A,true
+my_math_academy,1910515,Pre-K,School A,true
+my_reading_academy,1910515,Pre-K,School A,true
+my_reading_academy,1910516,Pre-K,School A,true
+my_reading_academy,1910517,Pre-K,School A,true
+my_math_academy,1910518,Pre-K,School A,true
+my_reading_academy,1910518,Pre-K,School A,true
+my_math_academy,1910521,Pre-K,School A,true
+my_reading_academy,1910521,Pre-K,School A,true
+my_math_academy,1910523,Pre-K,School A,true
+my_reading_academy,1910523,Pre-K,School A,true
+my_math_academy,1910524,Pre-K,School A,true
+my_reading_academy,1910524,Pre-K,School A,true
+my_math_academy,1910525,Pre-K,School A,true
+my_reading_academy,1910525,Pre-K,School A,true
+my_reading_academy,1910526,Pre-K,School A,true
+my_reading_academy,1910527,Pre-K,School A,true
+my_reading_academy,1910528,Pre-K,School A,true
+my_math_academy,1910529,Pre-K,School A,true
+my_reading_academy,1910529,Pre-K,School A,true
+my_math_academy,1910530,Pre-K,School A,true
+my_reading_academy,1910530,Pre-K,School A,true
+my_math_academy,1910531,Pre-K,School A,true
+my_math_academy,1910533,Pre-K,School A,true
+my_reading_academy,1910533,Pre-K,School A,true
+my_reading_academy,1910534,Pre-K,School A,true
+my_reading_academy,1912635,Pre-K,School A,true
+my_math_academy,1912636,Pre-K,School A,true
+my_reading_academy,1912637,Pre-K,School A,true
+my_reading_academy,1912638,Pre-K,School A,true
+my_math_academy,1912640,Pre-K,School A,true
+my_reading_academy,1912640,Pre-K,School A,true
+my_math_academy,1912677,Pre-K,School A,true
+my_reading_academy,1912677,Pre-K,School A,true
+my_math_academy,1912679,Pre-K,School A,true
+my_reading_academy,1912679,Pre-K,School A,true
+my_math_academy,1912681,Pre-K,School A,true
+my_reading_academy,1912681,Pre-K,School A,true
+my_math_academy,1912682,Pre-K,School A,true
+my_reading_academy,1912682,Pre-K,School A,true
+my_math_academy,1920787,Pre-K,School A,true
+my_reading_academy,1920787,Pre-K,School A,true
+my_math_academy,1923616,Pre-K,School A,true
+my_reading_academy,1923616,Pre-K,School A,true
+my_math_academy,1971015,Kindergarten,School B,true
+my_reading_academy,1971015,Kindergarten,School B,true
+my_math_academy,1971017,Kindergarten,School B,false
+my_math_academy,1971018,Kindergarten,School B,true
+my_reading_academy,1971018,Kindergarten,School B,true
+my_math_academy,1971019,Kindergarten,School B,true
+my_reading_academy,1971019,Kindergarten,School B,true
+my_math_academy,1971020,Kindergarten,School B,true
+my_reading_academy,1971020,Kindergarten,School B,true
+my_math_academy,1971021,Kindergarten,School B,true
+my_reading_academy,1971021,Kindergarten,School B,true
+my_math_academy,1971024,Kindergarten,School B,false
+my_math_academy,1971025,Kindergarten,School B,true
+my_reading_academy,1971025,Kindergarten,School B,true
+my_math_academy,1971026,Kindergarten,School B,true
+my_reading_academy,1971026,Kindergarten,School B,true
+my_math_academy,1971027,Kindergarten,School B,true
+my_reading_academy,1971027,Kindergarten,School B,true
+my_math_academy,1971028,Kindergarten,School B,true
+my_reading_academy,1971028,Kindergarten,School B,true
+my_math_academy,1971030,Kindergarten,School B,false
+my_reading_academy,1971030,Kindergarten,School B,true
+my_math_academy,1971031,Kindergarten,School B,true
+my_reading_academy,1971031,Kindergarten,School B,true
+my_math_academy,1971033,Kindergarten,School B,true
+my_reading_academy,1971033,Kindergarten,School B,true
+my_math_academy,1971037,Kindergarten,School B,true
+my_reading_academy,1971037,Kindergarten,School B,true
+my_math_academy,1971040,Kindergarten,School B,true
+my_reading_academy,1971040,Kindergarten,School B,true
+my_math_academy,1971042,Kindergarten,School B,true
+my_reading_academy,1971042,Kindergarten,School B,true
+my_math_academy,1971046,Kindergarten,School B,true
+my_reading_academy,1971046,Kindergarten,School B,true
+my_math_academy,1971047,Kindergarten,School B,false
+my_reading_academy,1971047,Kindergarten,School B,true
+my_math_academy,1971050,Kindergarten,School B,true
+my_reading_academy,1971050,Kindergarten,School B,true
+my_math_academy,1971051,Kindergarten,School B,true
+my_reading_academy,1971051,Kindergarten,School B,true
+my_math_academy,1971053,Kindergarten,School B,true
+my_reading_academy,1971053,Kindergarten,School B,true
+my_math_academy,1971054,Kindergarten,School B,true
+my_reading_academy,1971054,Kindergarten,School B,true
+my_math_academy,1971055,Kindergarten,School B,true
+my_reading_academy,1971055,Kindergarten,School B,true
+my_math_academy,1971056,Kindergarten,School B,true
+my_reading_academy,1971056,Kindergarten,School B,true
+my_math_academy,1971057,Kindergarten,School B,true
+my_reading_academy,1971057,Kindergarten,School B,true
+my_math_academy,1971058,Kindergarten,School B,true
+my_reading_academy,1971058,Kindergarten,School B,true
+my_math_academy,1971059,Kindergarten,School B,true
+my_reading_academy,1971059,Kindergarten,School B,true
+my_math_academy,1971060,Kindergarten,School B,true
+my_reading_academy,1971060,Kindergarten,School B,true
+my_math_academy,1971061,Kindergarten,School B,true
+my_reading_academy,1971061,Kindergarten,School B,true
+my_math_academy,1971062,Kindergarten,School B,true
+my_reading_academy,1971062,Kindergarten,School B,true
+my_math_academy,1971063,Kindergarten,School B,true
+my_reading_academy,1971063,Kindergarten,School B,true
+my_math_academy,1971064,Kindergarten,School B,true
+my_reading_academy,1971064,Kindergarten,School B,true
+my_math_academy,1971065,Kindergarten,School B,true
+my_reading_academy,1971065,Kindergarten,School B,true
+my_math_academy,1971066,Kindergarten,School B,false
+my_reading_academy,1971066,Kindergarten,School B,true
+my_math_academy,1971067,Kindergarten,School B,true
+my_reading_academy,1971067,Kindergarten,School B,true
+my_math_academy,1971069,Kindergarten,School B,true
+my_reading_academy,1971069,Kindergarten,School B,true
+my_math_academy,1971073,Kindergarten,School B,true
+my_reading_academy,1971073,Kindergarten,School B,true
+my_math_academy,1971074,Kindergarten,School B,true
+my_reading_academy,1971074,Kindergarten,School B,true
+my_math_academy,1971077,Kindergarten,School B,true
+my_reading_academy,1971077,Kindergarten,School B,true
+my_math_academy,1971078,Kindergarten,School B,true
+my_reading_academy,1971078,Kindergarten,School B,true
+my_math_academy,1971083,Kindergarten,School B,true
+my_reading_academy,1971083,Kindergarten,School B,true
+my_math_academy,1971085,Kindergarten,School B,true
+my_reading_academy,1971085,Kindergarten,School B,true
+my_math_academy,1971090,Kindergarten,School B,true
+my_reading_academy,1971090,Kindergarten,School B,true
+my_math_academy,1971091,Kindergarten,School B,true
+my_reading_academy,1971091,Kindergarten,School B,true
+my_math_academy,1971092,Kindergarten,School B,true
+my_reading_academy,1971092,Kindergarten,School B,true
+my_math_academy,1971093,Kindergarten,School B,true
+my_reading_academy,1971093,Kindergarten,School B,true
+my_math_academy,1971094,Kindergarten,School B,false
+my_reading_academy,1971094,Kindergarten,School B,true
+my_math_academy,1971095,Kindergarten,School B,true
+my_reading_academy,1971095,Kindergarten,School B,true
+my_math_academy,1971096,Kindergarten,School B,true
+my_reading_academy,1971096,Kindergarten,School B,true
+my_math_academy,1971097,Kindergarten,School B,true
+my_reading_academy,1971097,Kindergarten,School B,true
+my_math_academy,1971149,Kindergarten,School B,true
+my_reading_academy,1971149,Kindergarten,School B,true
+my_math_academy,1971150,Kindergarten,School B,true
+my_reading_academy,1971150,Kindergarten,School B,true
+my_math_academy,1971152,Kindergarten,School B,true
+my_reading_academy,1971152,Kindergarten,School B,true
+my_math_academy,1971153,Kindergarten,School B,true
+my_reading_academy,1971153,Kindergarten,School B,true
+my_math_academy,1971154,Kindergarten,School B,true
+my_reading_academy,1971154,Kindergarten,School B,true
+my_math_academy,1971155,Kindergarten,School B,true
+my_reading_academy,1971155,Kindergarten,School B,true
+my_math_academy,1971160,Kindergarten,School B,false
+my_reading_academy,1971160,Kindergarten,School B,true
+my_math_academy,1971163,Kindergarten,School B,true
+my_reading_academy,1971163,Kindergarten,School B,true
+my_math_academy,1971164,Kindergarten,School B,true
+my_reading_academy,1971164,Kindergarten,School B,true
+my_math_academy,1971165,Kindergarten,School B,true
+my_reading_academy,1971165,Kindergarten,School B,true
+my_math_academy,1971170,Kindergarten,School B,true
+my_reading_academy,1971170,Kindergarten,School B,true
+my_math_academy,1971171,Kindergarten,School B,true
+my_reading_academy,1971171,Kindergarten,School B,true
+my_math_academy,1971173,Kindergarten,School B,true
+my_reading_academy,1971173,Kindergarten,School B,true
+my_math_academy,1971174,Kindergarten,School B,true
+my_reading_academy,1971174,Kindergarten,School B,true
+my_math_academy,1971175,Kindergarten,School B,true
+my_reading_academy,1971175,Kindergarten,School B,true
+my_math_academy,1971176,Kindergarten,School B,true
+my_reading_academy,1971176,Kindergarten,School B,true
+my_math_academy,1971177,Kindergarten,School B,false
+my_reading_academy,1971177,Kindergarten,School B,true
+my_math_academy,1971178,Kindergarten,School B,true
+my_reading_academy,1971178,Kindergarten,School B,true
+my_math_academy,1971179,Kindergarten,School B,false
+my_reading_academy,1971179,Kindergarten,School B,true
+my_math_academy,1971197,Kindergarten,School B,true
+my_reading_academy,1971197,Kindergarten,School B,true
+my_math_academy,1971198,Kindergarten,School B,true
+my_reading_academy,1971198,Kindergarten,School B,true
+my_math_academy,1971202,Kindergarten,School B,true
+my_reading_academy,1971202,Kindergarten,School B,true
+my_math_academy,1971204,Kindergarten,School B,true
+my_reading_academy,1971204,Kindergarten,School B,true
+my_math_academy,1971206,Kindergarten,School B,true
+my_reading_academy,1971206,Kindergarten,School B,true
+my_math_academy,1971208,Kindergarten,School B,false
+my_reading_academy,1971208,Kindergarten,School B,true
+my_math_academy,1971602,Kindergarten,School B,true
+my_reading_academy,1971602,Kindergarten,School B,true
+my_math_academy,1978324,Kindergarten,School B,true
+my_reading_academy,1978324,Kindergarten,School B,true
+my_math_academy,1978325,Kindergarten,School B,false
+my_reading_academy,1978325,Kindergarten,School B,false
+my_math_academy,1999137,Kindergarten,School B,true
+my_reading_academy,1999137,Kindergarten,School B,true
+my_math_academy,2107352,Kindergarten,School B,true
+my_reading_academy,2107352,Kindergarten,School B,true
+my_math_academy,2159870,Kindergarten,School B,false
+my_reading_academy,2159870,Kindergarten,School B,true
+my_math_academy,2165283,Kindergarten,School B,true
+my_reading_academy,2165283,Kindergarten,School B,true
+my_math_academy,2182388,Kindergarten,School B,true
+my_reading_academy,2182388,Kindergarten,School B,true
+my_math_academy,2187953,Kindergarten,School B,true
+my_reading_academy,2187953,Kindergarten,School B,true
+my_math_academy,2190954,Kindergarten,School B,false
+my_reading_academy,2190954,Kindergarten,School B,true
+my_math_academy,1971016,Pre-K,School B,true
+my_reading_academy,1971016,Pre-K,School B,true
+my_math_academy,1971029,Pre-K,School B,true
+my_reading_academy,1971029,Pre-K,School B,true
+my_math_academy,1971032,Pre-K,School B,true
+my_reading_academy,1971032,Pre-K,School B,true
+my_math_academy,1971034,Pre-K,School B,true
+my_reading_academy,1971034,Pre-K,School B,true
+my_math_academy,1971035,Pre-K,School B,true
+my_reading_academy,1971035,Pre-K,School B,true
+my_math_academy,1971036,Pre-K,School B,true
+my_reading_academy,1971036,Pre-K,School B,true
+my_math_academy,1971038,Pre-K,School B,true
+my_reading_academy,1971038,Pre-K,School B,true
+my_math_academy,1971039,Pre-K,School B,true
+my_reading_academy,1971039,Pre-K,School B,true
+my_math_academy,1971041,Pre-K,School B,true
+my_reading_academy,1971041,Pre-K,School B,true
+my_math_academy,1971043,Pre-K,School B,true
+my_reading_academy,1971043,Pre-K,School B,true
+my_math_academy,1971044,Pre-K,School B,true
+my_reading_academy,1971044,Pre-K,School B,true
+my_math_academy,1971045,Pre-K,School B,true
+my_reading_academy,1971045,Pre-K,School B,true
+my_math_academy,1971048,Pre-K,School B,true
+my_reading_academy,1971048,Pre-K,School B,true
+my_math_academy,1971049,Pre-K,School B,true
+my_reading_academy,1971049,Pre-K,School B,true
+my_math_academy,1971052,Pre-K,School B,true
+my_reading_academy,1971052,Pre-K,School B,true
+my_math_academy,1971068,Pre-K,School B,true
+my_reading_academy,1971068,Pre-K,School B,true
+my_math_academy,1971070,Pre-K,School B,true
+my_reading_academy,1971070,Pre-K,School B,true
+my_math_academy,1971071,Pre-K,School B,true
+my_reading_academy,1971071,Pre-K,School B,true
+my_math_academy,1971072,Pre-K,School B,true
+my_reading_academy,1971072,Pre-K,School B,true
+my_math_academy,1971075,Pre-K,School B,true
+my_reading_academy,1971075,Pre-K,School B,true
+my_math_academy,1971076,Pre-K,School B,true
+my_reading_academy,1971076,Pre-K,School B,true
+my_math_academy,1971079,Pre-K,School B,true
+my_reading_academy,1971079,Pre-K,School B,true
+my_math_academy,1971080,Pre-K,School B,true
+my_reading_academy,1971080,Pre-K,School B,true
+my_math_academy,1971081,Pre-K,School B,true
+my_reading_academy,1971081,Pre-K,School B,true
+my_math_academy,1971082,Pre-K,School B,true
+my_reading_academy,1971082,Pre-K,School B,true
+my_math_academy,1971084,Pre-K,School B,true
+my_reading_academy,1971084,Pre-K,School B,true
+my_math_academy,1971086,Pre-K,School B,true
+my_reading_academy,1971086,Pre-K,School B,true
+my_math_academy,1971087,Pre-K,School B,true
+my_reading_academy,1971087,Pre-K,School B,true
+my_math_academy,1971088,Pre-K,School B,true
+my_reading_academy,1971088,Pre-K,School B,true
+my_math_academy,1971089,Pre-K,School B,true
+my_reading_academy,1971089,Pre-K,School B,true
+my_math_academy,1971098,Pre-K,School B,true
+my_reading_academy,1971098,Pre-K,School B,true
+my_math_academy,1971099,Pre-K,School B,true
+my_reading_academy,1971099,Pre-K,School B,true
+my_math_academy,1971100,Pre-K,School B,true
+my_reading_academy,1971100,Pre-K,School B,true
+my_math_academy,1971101,Pre-K,School B,true
+my_reading_academy,1971101,Pre-K,School B,true
+my_math_academy,1971102,Pre-K,School B,true
+my_reading_academy,1971102,Pre-K,School B,true
+my_math_academy,1971103,Pre-K,School B,true
+my_reading_academy,1971103,Pre-K,School B,true
+my_math_academy,1971104,Pre-K,School B,true
+my_reading_academy,1971104,Pre-K,School B,true
+my_math_academy,1971105,Pre-K,School B,true
+my_reading_academy,1971105,Pre-K,School B,true
+my_math_academy,1971106,Pre-K,School B,true
+my_reading_academy,1971106,Pre-K,School B,true
+my_math_academy,1971107,Pre-K,School B,true
+my_reading_academy,1971107,Pre-K,School B,true
+my_math_academy,1971108,Pre-K,School B,true
+my_reading_academy,1971108,Pre-K,School B,true
+my_math_academy,1971109,Pre-K,School B,true
+my_reading_academy,1971109,Pre-K,School B,true
+my_math_academy,1971110,Pre-K,School B,true
+my_reading_academy,1971110,Pre-K,School B,true
+my_math_academy,1971111,Pre-K,School B,true
+my_reading_academy,1971111,Pre-K,School B,true
+my_math_academy,1971112,Pre-K,School B,true
+my_reading_academy,1971112,Pre-K,School B,true
+my_math_academy,1971113,Pre-K,School B,true
+my_reading_academy,1971113,Pre-K,School B,true
+my_math_academy,1971114,Pre-K,School B,true
+my_reading_academy,1971114,Pre-K,School B,true
+my_math_academy,1971115,Pre-K,School B,true
+my_reading_academy,1971115,Pre-K,School B,true
+my_math_academy,1971116,Pre-K,School B,true
+my_reading_academy,1971116,Pre-K,School B,true
+my_math_academy,1971117,Pre-K,School B,true
+my_reading_academy,1971117,Pre-K,School B,true
+my_math_academy,1971118,Pre-K,School B,true
+my_reading_academy,1971118,Pre-K,School B,true
+my_math_academy,1971119,Pre-K,School B,true
+my_reading_academy,1971119,Pre-K,School B,true
+my_math_academy,1971120,Pre-K,School B,true
+my_reading_academy,1971120,Pre-K,School B,true
+my_math_academy,1971121,Pre-K,School B,true
+my_reading_academy,1971121,Pre-K,School B,true
+my_math_academy,1971122,Pre-K,School B,true
+my_reading_academy,1971122,Pre-K,School B,true
+my_math_academy,1971123,Pre-K,School B,true
+my_reading_academy,1971123,Pre-K,School B,true
+my_math_academy,1971124,Pre-K,School B,true
+my_reading_academy,1971124,Pre-K,School B,true
+my_math_academy,1971125,Pre-K,School B,true
+my_reading_academy,1971125,Pre-K,School B,true
+my_math_academy,1971126,Pre-K,School B,true
+my_reading_academy,1971126,Pre-K,School B,true
+my_math_academy,1971127,Pre-K,School B,true
+my_reading_academy,1971127,Pre-K,School B,true
+my_math_academy,1971128,Pre-K,School B,true
+my_reading_academy,1971128,Pre-K,School B,true
+my_math_academy,1971129,Pre-K,School B,true
+my_reading_academy,1971129,Pre-K,School B,true
+my_math_academy,1971130,Pre-K,School B,true
+my_reading_academy,1971130,Pre-K,School B,true
+my_math_academy,1971131,Pre-K,School B,true
+my_reading_academy,1971131,Pre-K,School B,true
+my_math_academy,1971132,Pre-K,School B,true
+my_reading_academy,1971132,Pre-K,School B,true
+my_math_academy,1971133,Pre-K,School B,true
+my_reading_academy,1971133,Pre-K,School B,true
+my_math_academy,1971134,Pre-K,School B,true
+my_reading_academy,1971134,Pre-K,School B,true
+my_math_academy,1971135,Pre-K,School B,true
+my_reading_academy,1971135,Pre-K,School B,true
+my_math_academy,1971136,Pre-K,School B,true
+my_reading_academy,1971136,Pre-K,School B,true
+my_math_academy,1971137,Pre-K,School B,true
+my_reading_academy,1971137,Pre-K,School B,true
+my_math_academy,1971138,Pre-K,School B,true
+my_reading_academy,1971138,Pre-K,School B,true
+my_math_academy,1971139,Pre-K,School B,true
+my_reading_academy,1971139,Pre-K,School B,true
+my_math_academy,1971140,Pre-K,School B,true
+my_reading_academy,1971140,Pre-K,School B,true
+my_math_academy,1971141,Pre-K,School B,true
+my_reading_academy,1971141,Pre-K,School B,true
+my_math_academy,1971142,Pre-K,School B,true
+my_reading_academy,1971142,Pre-K,School B,true
+my_math_academy,1971143,Pre-K,School B,true
+my_reading_academy,1971143,Pre-K,School B,true
+my_math_academy,1971144,Pre-K,School B,true
+my_reading_academy,1971144,Pre-K,School B,true
+my_math_academy,1971146,Pre-K,School B,true
+my_reading_academy,1971146,Pre-K,School B,true
+my_math_academy,1971147,Pre-K,School B,true
+my_reading_academy,1971147,Pre-K,School B,true
+my_math_academy,1971148,Pre-K,School B,true
+my_reading_academy,1971148,Pre-K,School B,true
+my_math_academy,1971156,Pre-K,School B,true
+my_reading_academy,1971156,Pre-K,School B,true
+my_math_academy,1971157,Pre-K,School B,true
+my_reading_academy,1971157,Pre-K,School B,true
+my_math_academy,1971158,Pre-K,School B,true
+my_reading_academy,1971158,Pre-K,School B,true
+my_math_academy,1971159,Pre-K,School B,true
+my_reading_academy,1971159,Pre-K,School B,true
+my_math_academy,1971161,Pre-K,School B,true
+my_reading_academy,1971161,Pre-K,School B,true
+my_math_academy,1971162,Pre-K,School B,true
+my_reading_academy,1971162,Pre-K,School B,true
+my_math_academy,1971166,Pre-K,School B,true
+my_reading_academy,1971166,Pre-K,School B,true
+my_math_academy,1971167,Pre-K,School B,true
+my_reading_academy,1971167,Pre-K,School B,true
+my_math_academy,1971168,Pre-K,School B,true
+my_reading_academy,1971168,Pre-K,School B,true
+my_math_academy,1971169,Pre-K,School B,true
+my_reading_academy,1971169,Pre-K,School B,true
+my_math_academy,1971172,Pre-K,School B,true
+my_reading_academy,1971172,Pre-K,School B,true
+my_math_academy,1971180,Pre-K,School B,true
+my_reading_academy,1971180,Pre-K,School B,true
+my_math_academy,1971181,Pre-K,School B,true
+my_reading_academy,1971181,Pre-K,School B,true
+my_math_academy,1971182,Pre-K,School B,true
+my_reading_academy,1971182,Pre-K,School B,true
+my_math_academy,1971183,Pre-K,School B,true
+my_reading_academy,1971183,Pre-K,School B,true
+my_math_academy,1971184,Pre-K,School B,true
+my_reading_academy,1971184,Pre-K,School B,true
+my_math_academy,1971185,Pre-K,School B,true
+my_reading_academy,1971185,Pre-K,School B,true
+my_math_academy,1971186,Pre-K,School B,true
+my_reading_academy,1971186,Pre-K,School B,true
+my_math_academy,1971187,Pre-K,School B,true
+my_reading_academy,1971187,Pre-K,School B,true
+my_math_academy,1971188,Pre-K,School B,true
+my_reading_academy,1971188,Pre-K,School B,true
+my_math_academy,1971189,Pre-K,School B,true
+my_reading_academy,1971189,Pre-K,School B,true
+my_math_academy,1971190,Pre-K,School B,true
+my_reading_academy,1971190,Pre-K,School B,true
+my_math_academy,1971191,Pre-K,School B,true
+my_reading_academy,1971191,Pre-K,School B,true
+my_math_academy,1971192,Pre-K,School B,true
+my_reading_academy,1971192,Pre-K,School B,true
+my_math_academy,1971193,Pre-K,School B,true
+my_reading_academy,1971193,Pre-K,School B,true
+my_math_academy,1971194,Pre-K,School B,true
+my_reading_academy,1971194,Pre-K,School B,true
+my_math_academy,1971195,Pre-K,School B,true
+my_reading_academy,1971195,Pre-K,School B,true
+my_math_academy,1971196,Pre-K,School B,true
+my_reading_academy,1971196,Pre-K,School B,true
+my_math_academy,1971199,Pre-K,School B,true
+my_reading_academy,1971199,Pre-K,School B,true
+my_math_academy,1971200,Pre-K,School B,true
+my_reading_academy,1971200,Pre-K,School B,true
+my_math_academy,1971201,Pre-K,School B,true
+my_reading_academy,1971201,Pre-K,School B,true
+my_math_academy,1971203,Pre-K,School B,true
+my_reading_academy,1971203,Pre-K,School B,true
+my_math_academy,1971205,Pre-K,School B,true
+my_reading_academy,1971205,Pre-K,School B,true
+my_math_academy,1971207,Pre-K,School B,true
+my_reading_academy,1971207,Pre-K,School B,true
+my_math_academy,1971210,Pre-K,School B,true
+my_reading_academy,1971210,Pre-K,School B,true
+my_math_academy,1971472,Pre-K,School B,true
+my_reading_academy,1971472,Pre-K,School B,true
+my_math_academy,1971473,Pre-K,School B,true
+my_reading_academy,1971473,Pre-K,School B,true
+my_math_academy,1971474,Pre-K,School B,true
+my_reading_academy,1971474,Pre-K,School B,true
+my_math_academy,1971475,Pre-K,School B,true
+my_reading_academy,1971475,Pre-K,School B,true
+my_math_academy,1971476,Pre-K,School B,true
+my_reading_academy,1971476,Pre-K,School B,true
+my_math_academy,1971477,Pre-K,School B,true
+my_reading_academy,1971477,Pre-K,School B,true
+my_math_academy,1971478,Pre-K,School B,true
+my_reading_academy,1971478,Pre-K,School B,true
+my_math_academy,1971479,Pre-K,School B,true
+my_reading_academy,1971479,Pre-K,School B,true
+my_math_academy,1971480,Pre-K,School B,true
+my_reading_academy,1971480,Pre-K,School B,true
+my_math_academy,1971481,Pre-K,School B,true
+my_reading_academy,1971481,Pre-K,School B,true
+my_math_academy,1971482,Pre-K,School B,true
+my_reading_academy,1971482,Pre-K,School B,true
+my_math_academy,1971483,Pre-K,School B,true
+my_reading_academy,1971483,Pre-K,School B,true
+my_math_academy,1971484,Pre-K,School B,true
+my_reading_academy,1971484,Pre-K,School B,true
+my_math_academy,1971485,Pre-K,School B,true
+my_reading_academy,1971485,Pre-K,School B,true
+my_math_academy,1971486,Pre-K,School B,true
+my_reading_academy,1971486,Pre-K,School B,true
+my_math_academy,1971487,Pre-K,School B,true
+my_reading_academy,1971487,Pre-K,School B,true
+my_math_academy,1971488,Pre-K,School B,true
+my_reading_academy,1971488,Pre-K,School B,true
+my_math_academy,1971489,Pre-K,School B,true
+my_reading_academy,1971489,Pre-K,School B,true
+my_math_academy,1971490,Pre-K,School B,true
+my_reading_academy,1971490,Pre-K,School B,true
+my_math_academy,1971491,Pre-K,School B,true
+my_reading_academy,1971491,Pre-K,School B,true
+my_math_academy,1971492,Pre-K,School B,true
+my_reading_academy,1971492,Pre-K,School B,true
+my_math_academy,1971493,Pre-K,School B,true
+my_reading_academy,1971493,Pre-K,School B,true
+my_math_academy,1971494,Pre-K,School B,true
+my_reading_academy,1971494,Pre-K,School B,true
+my_math_academy,1971495,Pre-K,School B,true
+my_reading_academy,1971495,Pre-K,School B,true
+my_math_academy,1971496,Pre-K,School B,true
+my_reading_academy,1971496,Pre-K,School B,true
+my_math_academy,1971497,Pre-K,School B,true
+my_reading_academy,1971497,Pre-K,School B,true
+my_math_academy,1971498,Pre-K,School B,true
+my_reading_academy,1971498,Pre-K,School B,true
+my_math_academy,1971499,Pre-K,School B,true
+my_reading_academy,1971499,Pre-K,School B,true
+my_math_academy,1971500,Pre-K,School B,true
+my_reading_academy,1971500,Pre-K,School B,true
+my_math_academy,1971501,Pre-K,School B,true
+my_reading_academy,1971501,Pre-K,School B,true
+my_math_academy,1971502,Pre-K,School B,true
+my_reading_academy,1971502,Pre-K,School B,true
+my_math_academy,1971503,Pre-K,School B,true
+my_reading_academy,1971503,Pre-K,School B,true
+my_math_academy,1971504,Pre-K,School B,true
+my_reading_academy,1971504,Pre-K,School B,true
+my_math_academy,1971505,Pre-K,School B,true
+my_reading_academy,1971505,Pre-K,School B,true
+my_math_academy,1971506,Pre-K,School B,true
+my_reading_academy,1971506,Pre-K,School B,true
+my_math_academy,1971507,Pre-K,School B,true
+my_reading_academy,1971507,Pre-K,School B,true
+my_math_academy,1971508,Pre-K,School B,true
+my_reading_academy,1971508,Pre-K,School B,true
+my_math_academy,1971509,Pre-K,School B,true
+my_reading_academy,1971509,Pre-K,School B,true
+my_math_academy,1971510,Pre-K,School B,true
+my_reading_academy,1971510,Pre-K,School B,true
+my_math_academy,1971511,Pre-K,School B,true
+my_reading_academy,1971511,Pre-K,School B,true
+my_math_academy,1971512,Pre-K,School B,true
+my_reading_academy,1971512,Pre-K,School B,true
+my_math_academy,1971513,Pre-K,School B,true
+my_reading_academy,1971513,Pre-K,School B,true
+my_math_academy,1971514,Pre-K,School B,true
+my_reading_academy,1971514,Pre-K,School B,true
+my_math_academy,1971515,Pre-K,School B,true
+my_reading_academy,1971515,Pre-K,School B,true
+my_math_academy,1971516,Pre-K,School B,true
+my_reading_academy,1971516,Pre-K,School B,true
+my_math_academy,1971517,Pre-K,School B,true
+my_reading_academy,1971517,Pre-K,School B,true
+my_math_academy,1971518,Pre-K,School B,true
+my_reading_academy,1971518,Pre-K,School B,true
+my_math_academy,1971519,Pre-K,School B,true
+my_reading_academy,1971519,Pre-K,School B,true
+my_math_academy,1971520,Pre-K,School B,true
+my_reading_academy,1971520,Pre-K,School B,true
+my_math_academy,1971521,Pre-K,School B,true
+my_reading_academy,1971521,Pre-K,School B,true
+my_math_academy,1971522,Pre-K,School B,true
+my_reading_academy,1971522,Pre-K,School B,true
+my_math_academy,1971523,Pre-K,School B,true
+my_reading_academy,1971523,Pre-K,School B,true
+my_math_academy,1971524,Pre-K,School B,true
+my_reading_academy,1971524,Pre-K,School B,true
+my_math_academy,1971525,Pre-K,School B,true
+my_reading_academy,1971525,Pre-K,School B,true
+my_math_academy,1971527,Pre-K,School B,true
+my_reading_academy,1971527,Pre-K,School B,true
+my_math_academy,1971528,Pre-K,School B,true
+my_reading_academy,1971528,Pre-K,School B,true
+my_math_academy,1971529,Pre-K,School B,true
+my_reading_academy,1971529,Pre-K,School B,true
+my_math_academy,1971530,Pre-K,School B,true
+my_reading_academy,1971530,Pre-K,School B,true
+my_math_academy,1971531,Pre-K,School B,true
+my_reading_academy,1971531,Pre-K,School B,true
+my_math_academy,1971532,Pre-K,School B,true
+my_reading_academy,1971532,Pre-K,School B,true
+my_math_academy,1971533,Pre-K,School B,true
+my_reading_academy,1971533,Pre-K,School B,true
+my_math_academy,1971534,Pre-K,School B,true
+my_reading_academy,1971534,Pre-K,School B,true
+my_math_academy,1971535,Pre-K,School B,true
+my_reading_academy,1971535,Pre-K,School B,true
+my_math_academy,1971536,Pre-K,School B,true
+my_reading_academy,1971536,Pre-K,School B,true
+my_math_academy,1971537,Pre-K,School B,true
+my_reading_academy,1971537,Pre-K,School B,true
+my_math_academy,1971538,Pre-K,School B,true
+my_reading_academy,1971538,Pre-K,School B,true
+my_math_academy,1971539,Pre-K,School B,true
+my_reading_academy,1971539,Pre-K,School B,true
+my_math_academy,1971540,Pre-K,School B,true
+my_reading_academy,1971540,Pre-K,School B,true
+my_math_academy,1971541,Pre-K,School B,true
+my_reading_academy,1971541,Pre-K,School B,true
+my_math_academy,1971542,Pre-K,School B,true
+my_reading_academy,1971542,Pre-K,School B,true
+my_math_academy,1971543,Pre-K,School B,true
+my_reading_academy,1971543,Pre-K,School B,true
+my_math_academy,1971544,Pre-K,School B,true
+my_reading_academy,1971544,Pre-K,School B,true
+my_math_academy,1971545,Pre-K,School B,true
+my_reading_academy,1971545,Pre-K,School B,true
+my_math_academy,1971546,Pre-K,School B,true
+my_reading_academy,1971546,Pre-K,School B,true
+my_math_academy,1971547,Pre-K,School B,true
+my_reading_academy,1971547,Pre-K,School B,true
+my_math_academy,1971548,Pre-K,School B,true
+my_reading_academy,1971548,Pre-K,School B,true
+my_math_academy,1971549,Pre-K,School B,true
+my_reading_academy,1971549,Pre-K,School B,true
+my_math_academy,1971550,Pre-K,School B,true
+my_reading_academy,1971550,Pre-K,School B,true
+my_math_academy,1971551,Pre-K,School B,true
+my_reading_academy,1971551,Pre-K,School B,true
+my_math_academy,1971552,Pre-K,School B,true
+my_reading_academy,1971552,Pre-K,School B,true
+my_math_academy,1971553,Pre-K,School B,true
+my_reading_academy,1971553,Pre-K,School B,true
+my_math_academy,1971554,Pre-K,School B,true
+my_reading_academy,1971554,Pre-K,School B,true
+my_math_academy,1971555,Pre-K,School B,true
+my_reading_academy,1971555,Pre-K,School B,true
+my_math_academy,1971556,Pre-K,School B,true
+my_reading_academy,1971556,Pre-K,School B,true
+my_math_academy,1971557,Pre-K,School B,true
+my_reading_academy,1971557,Pre-K,School B,true
+my_math_academy,1971558,Pre-K,School B,true
+my_reading_academy,1971558,Pre-K,School B,true
+my_math_academy,1971559,Pre-K,School B,true
+my_reading_academy,1971559,Pre-K,School B,true
+my_math_academy,1971560,Pre-K,School B,true
+my_reading_academy,1971560,Pre-K,School B,true
+my_math_academy,1971561,Pre-K,School B,true
+my_reading_academy,1971561,Pre-K,School B,true
+my_math_academy,1971562,Pre-K,School B,true
+my_reading_academy,1971562,Pre-K,School B,true
+my_math_academy,1971563,Pre-K,School B,true
+my_reading_academy,1971563,Pre-K,School B,true
+my_math_academy,1971564,Pre-K,School B,true
+my_reading_academy,1971564,Pre-K,School B,true
+my_math_academy,1971565,Pre-K,School B,true
+my_reading_academy,1971565,Pre-K,School B,true
+my_math_academy,1971566,Pre-K,School B,true
+my_reading_academy,1971566,Pre-K,School B,true
+my_math_academy,1971567,Pre-K,School B,true
+my_reading_academy,1971567,Pre-K,School B,true
+my_math_academy,1971568,Pre-K,School B,true
+my_reading_academy,1971568,Pre-K,School B,true
+my_math_academy,1971569,Pre-K,School B,true
+my_reading_academy,1971569,Pre-K,School B,true
+my_math_academy,1971570,Pre-K,School B,true
+my_reading_academy,1971570,Pre-K,School B,true
+my_math_academy,1971571,Pre-K,School B,true
+my_reading_academy,1971571,Pre-K,School B,true
+my_math_academy,1971572,Pre-K,School B,true
+my_reading_academy,1971572,Pre-K,School B,true
+my_math_academy,1971573,Pre-K,School B,true
+my_reading_academy,1971573,Pre-K,School B,true
+my_math_academy,1971574,Pre-K,School B,true
+my_reading_academy,1971574,Pre-K,School B,true
+my_math_academy,1971575,Pre-K,School B,true
+my_reading_academy,1971575,Pre-K,School B,true
+my_math_academy,1971576,Pre-K,School B,true
+my_reading_academy,1971576,Pre-K,School B,true
+my_math_academy,1971577,Pre-K,School B,true
+my_reading_academy,1971577,Pre-K,School B,true
+my_math_academy,1971578,Pre-K,School B,true
+my_reading_academy,1971578,Pre-K,School B,true
+my_math_academy,1971579,Pre-K,School B,true
+my_reading_academy,1971579,Pre-K,School B,true
+my_math_academy,1971580,Pre-K,School B,true
+my_reading_academy,1971580,Pre-K,School B,true
+my_math_academy,1971581,Pre-K,School B,true
+my_reading_academy,1971581,Pre-K,School B,true
+my_math_academy,1971582,Pre-K,School B,true
+my_reading_academy,1971582,Pre-K,School B,true
+my_math_academy,1971583,Pre-K,School B,true
+my_reading_academy,1971583,Pre-K,School B,true
+my_math_academy,1971584,Pre-K,School B,true
+my_reading_academy,1971584,Pre-K,School B,true
+my_math_academy,1971586,Pre-K,School B,true
+my_reading_academy,1971586,Pre-K,School B,true
+my_math_academy,1971587,Pre-K,School B,true
+my_reading_academy,1971587,Pre-K,School B,true
+my_math_academy,1971589,Pre-K,School B,true
+my_reading_academy,1971589,Pre-K,School B,true
+my_math_academy,1971590,Pre-K,School B,true
+my_reading_academy,1971590,Pre-K,School B,true
+my_math_academy,1971591,Pre-K,School B,true
+my_reading_academy,1971591,Pre-K,School B,true
+my_math_academy,1971592,Pre-K,School B,true
+my_reading_academy,1971592,Pre-K,School B,true
+my_math_academy,1971593,Pre-K,School B,true
+my_reading_academy,1971593,Pre-K,School B,true
+my_math_academy,1971594,Pre-K,School B,true
+my_reading_academy,1971594,Pre-K,School B,true
+my_math_academy,1971596,Pre-K,School B,true
+my_reading_academy,1971596,Pre-K,School B,true
+my_math_academy,1971597,Pre-K,School B,true
+my_reading_academy,1971597,Pre-K,School B,true
+my_math_academy,1971598,Pre-K,School B,true
+my_reading_academy,1971598,Pre-K,School B,true
+my_math_academy,1971599,Pre-K,School B,true
+my_reading_academy,1971599,Pre-K,School B,true
+my_math_academy,1971600,Pre-K,School B,true
+my_reading_academy,1971600,Pre-K,School B,true
+my_math_academy,1971601,Pre-K,School B,true
+my_reading_academy,1971601,Pre-K,School B,true
+my_math_academy,1971603,Pre-K,School B,true
+my_reading_academy,1971603,Pre-K,School B,true
+my_math_academy,1971604,Pre-K,School B,true
+my_reading_academy,1971604,Pre-K,School B,true
+my_math_academy,1971605,Pre-K,School B,true
+my_reading_academy,1971605,Pre-K,School B,true
+my_math_academy,1971606,Pre-K,School B,true
+my_reading_academy,1971606,Pre-K,School B,true
+my_math_academy,1971607,Pre-K,School B,true
+my_reading_academy,1971607,Pre-K,School B,true
+my_math_academy,1971608,Pre-K,School B,true
+my_reading_academy,1971608,Pre-K,School B,true
+my_math_academy,1971609,Pre-K,School B,true
+my_reading_academy,1971609,Pre-K,School B,true
+my_math_academy,1973465,Pre-K,School B,true
+my_reading_academy,1973465,Pre-K,School B,true
+my_math_academy,1978322,Pre-K,School B,true
+my_reading_academy,1978322,Pre-K,School B,true
+my_math_academy,1978326,Pre-K,School B,true
+my_reading_academy,1978326,Pre-K,School B,true
+my_math_academy,1978327,Pre-K,School B,true
+my_reading_academy,1978327,Pre-K,School B,true
+my_math_academy,1978328,Pre-K,School B,true
+my_reading_academy,1978328,Pre-K,School B,true
+my_math_academy,1999136,Pre-K,School B,true
+my_reading_academy,1999136,Pre-K,School B,true
+my_math_academy,1999138,Pre-K,School B,true
+my_reading_academy,1999138,Pre-K,School B,true
+my_math_academy,2097113,Pre-K,School B,true
+my_reading_academy,2097113,Pre-K,School B,true
+my_math_academy,2150890,Pre-K,School B,true
+my_reading_academy,2150890,Pre-K,School B,true
+my_math_academy,2150891,Pre-K,School B,true
+my_reading_academy,2150891,Pre-K,School B,true
+my_math_academy,2162279,Pre-K,School B,true
+my_reading_academy,2162279,Pre-K,School B,true
+my_math_academy,2177948,Pre-K,School B,true
+my_reading_academy,2177948,Pre-K,School B,true
+my_math_academy,2180428,Pre-K,School B,true
+my_reading_academy,2180428,Pre-K,School B,true
+my_math_academy,2185075,Pre-K,School B,true
+my_reading_academy,2185075,Pre-K,School B,true
+my_math_academy,2185076,Pre-K,School B,true
+my_reading_academy,2185076,Pre-K,School B,true
+my_math_academy,2185077,Pre-K,School B,true
+my_reading_academy,2185077,Pre-K,School B,true
+my_math_academy,2185078,Pre-K,School B,true
+my_reading_academy,2185078,Pre-K,School B,true
+my_math_academy,2190952,Pre-K,School B,true
+my_reading_academy,2190952,Pre-K,School B,true
+my_math_academy,2190953,Pre-K,School B,true
+my_reading_academy,2190953,Pre-K,School B,true
+my_math_academy,2252178,Pre-K,School B,true
+my_reading_academy,2252178,Pre-K,School B,true
+my_math_academy,2282781,Pre-K,School B,true
+my_reading_academy,2282781,Pre-K,School B,true
+my_math_academy,2288845,Pre-K,School B,true
+my_reading_academy,2288845,Pre-K,School B,true
+my_math_academy,2291725,Pre-K,School B,true
+my_reading_academy,2291725,Pre-K,School B,true
+my_math_academy,2296718,Pre-K,School B,true
+my_reading_academy,2296718,Pre-K,School B,true
+my_math_academy,1172570,1st Grade,School C,true
+my_reading_academy,1172570,1st Grade,School C,true
+my_math_academy,1172571,1st Grade,School C,true
+my_reading_academy,1172571,1st Grade,School C,true
+my_math_academy,1172572,1st Grade,School C,true
+my_reading_academy,1172572,1st Grade,School C,true
+my_math_academy,1172573,1st Grade,School C,true
+my_reading_academy,1172573,1st Grade,School C,true
+my_math_academy,1172577,1st Grade,School C,true
+my_reading_academy,1172577,1st Grade,School C,true
+my_math_academy,1172604,1st Grade,School C,true
+my_reading_academy,1172604,1st Grade,School C,true
+my_math_academy,1172606,1st Grade,School C,true
+my_reading_academy,1172606,1st Grade,School C,true
+my_math_academy,1172607,1st Grade,School C,true
+my_reading_academy,1172607,1st Grade,School C,true
+my_math_academy,1172608,1st Grade,School C,true
+my_reading_academy,1172608,1st Grade,School C,true
+my_math_academy,1172624,1st Grade,School C,true
+my_reading_academy,1172624,1st Grade,School C,true
+my_math_academy,1172625,1st Grade,School C,true
+my_reading_academy,1172625,1st Grade,School C,true
+my_math_academy,1172626,1st Grade,School C,true
+my_reading_academy,1172626,1st Grade,School C,true
+my_math_academy,1172638,1st Grade,School C,true
+my_reading_academy,1172638,1st Grade,School C,true
+my_math_academy,1172641,1st Grade,School C,true
+my_reading_academy,1172641,1st Grade,School C,true
+my_math_academy,1172657,1st Grade,School C,true
+my_reading_academy,1172657,1st Grade,School C,true
+my_math_academy,1172658,1st Grade,School C,true
+my_reading_academy,1172658,1st Grade,School C,true
+my_math_academy,1172674,1st Grade,School C,true
+my_reading_academy,1172674,1st Grade,School C,true
+my_math_academy,1172675,1st Grade,School C,true
+my_reading_academy,1172675,1st Grade,School C,true
+my_math_academy,1172695,1st Grade,School C,true
+my_reading_academy,1172695,1st Grade,School C,true
+my_math_academy,1172706,1st Grade,School C,true
+my_reading_academy,1172706,1st Grade,School C,true
+my_math_academy,1172710,1st Grade,School C,true
+my_reading_academy,1172710,1st Grade,School C,true
+my_math_academy,1172711,1st Grade,School C,true
+my_reading_academy,1172711,1st Grade,School C,true
+my_math_academy,1172743,1st Grade,School C,true
+my_reading_academy,1172743,1st Grade,School C,true
+my_math_academy,1172744,1st Grade,School C,true
+my_reading_academy,1172744,1st Grade,School C,true
+my_math_academy,1172748,1st Grade,School C,true
+my_reading_academy,1172748,1st Grade,School C,true
+my_math_academy,1172749,1st Grade,School C,true
+my_reading_academy,1172749,1st Grade,School C,true
+my_math_academy,1172752,1st Grade,School C,true
+my_reading_academy,1172752,1st Grade,School C,true
+my_math_academy,1172753,1st Grade,School C,true
+my_reading_academy,1172753,1st Grade,School C,true
+my_math_academy,1172766,1st Grade,School C,true
+my_reading_academy,1172766,1st Grade,School C,true
+my_math_academy,1172767,1st Grade,School C,true
+my_reading_academy,1172767,1st Grade,School C,true
+my_math_academy,1172768,1st Grade,School C,true
+my_reading_academy,1172768,1st Grade,School C,true
+my_math_academy,1172806,1st Grade,School C,true
+my_reading_academy,1172806,1st Grade,School C,true
+my_math_academy,1172807,1st Grade,School C,true
+my_reading_academy,1172807,1st Grade,School C,true
+my_math_academy,1172822,1st Grade,School C,true
+my_reading_academy,1172822,1st Grade,School C,true
+my_math_academy,1172844,1st Grade,School C,true
+my_reading_academy,1172844,1st Grade,School C,true
+my_math_academy,1172876,1st Grade,School C,true
+my_reading_academy,1172876,1st Grade,School C,true
+my_math_academy,1172877,1st Grade,School C,true
+my_reading_academy,1172877,1st Grade,School C,true
+my_math_academy,1172878,1st Grade,School C,true
+my_reading_academy,1172878,1st Grade,School C,true
+my_math_academy,1172879,1st Grade,School C,true
+my_reading_academy,1172879,1st Grade,School C,true
+my_math_academy,1172884,1st Grade,School C,true
+my_reading_academy,1172884,1st Grade,School C,true
+my_math_academy,1172920,1st Grade,School C,true
+my_reading_academy,1172920,1st Grade,School C,true
+my_math_academy,1172922,1st Grade,School C,true
+my_reading_academy,1172922,1st Grade,School C,true
+my_math_academy,1172923,1st Grade,School C,true
+my_reading_academy,1172923,1st Grade,School C,true
+my_math_academy,1172926,1st Grade,School C,true
+my_reading_academy,1172926,1st Grade,School C,true
+my_math_academy,1172934,1st Grade,School C,true
+my_reading_academy,1172934,1st Grade,School C,true
+my_math_academy,1423009,1st Grade,School C,true
+my_reading_academy,1423009,1st Grade,School C,true
+my_math_academy,1423019,1st Grade,School C,true
+my_reading_academy,1423019,1st Grade,School C,true
+my_math_academy,1423029,1st Grade,School C,true
+my_reading_academy,1423029,1st Grade,School C,true
+my_math_academy,1423047,1st Grade,School C,true
+my_reading_academy,1423047,1st Grade,School C,true
+my_math_academy,1423048,1st Grade,School C,true
+my_reading_academy,1423048,1st Grade,School C,true
+my_math_academy,1423056,1st Grade,School C,true
+my_reading_academy,1423056,1st Grade,School C,true
+my_math_academy,1423057,1st Grade,School C,true
+my_reading_academy,1423057,1st Grade,School C,true
+my_math_academy,1423058,1st Grade,School C,true
+my_reading_academy,1423058,1st Grade,School C,true
+my_math_academy,1423059,1st Grade,School C,true
+my_reading_academy,1423059,1st Grade,School C,true
+my_math_academy,1423088,1st Grade,School C,true
+my_reading_academy,1423088,1st Grade,School C,true
+my_math_academy,1675219,1st Grade,School C,true
+my_reading_academy,1675219,1st Grade,School C,true
+my_math_academy,1683601,1st Grade,School C,true
+my_reading_academy,1683601,1st Grade,School C,true
+my_math_academy,1715532,1st Grade,School C,true
+my_reading_academy,1715532,1st Grade,School C,true
+my_math_academy,2096107,1st Grade,School C,true
+my_reading_academy,2096107,1st Grade,School C,true
+my_math_academy,2096131,1st Grade,School C,true
+my_reading_academy,2096131,1st Grade,School C,true
+my_math_academy,1172567,2nd Grade,School C,true
+my_reading_academy,1172567,2nd Grade,School C,true
+my_math_academy,1172568,2nd Grade,School C,true
+my_reading_academy,1172568,2nd Grade,School C,true
+my_math_academy,1172574,2nd Grade,School C,true
+my_reading_academy,1172574,2nd Grade,School C,true
+my_math_academy,1172597,2nd Grade,School C,true
+my_reading_academy,1172597,2nd Grade,School C,true
+my_math_academy,1172599,2nd Grade,School C,true
+my_reading_academy,1172599,2nd Grade,School C,true
+my_math_academy,1172600,2nd Grade,School C,true
+my_reading_academy,1172600,2nd Grade,School C,true
+my_math_academy,1172601,2nd Grade,School C,true
+my_reading_academy,1172601,2nd Grade,School C,true
+my_math_academy,1172602,2nd Grade,School C,true
+my_reading_academy,1172602,2nd Grade,School C,true
+my_math_academy,1172603,2nd Grade,School C,true
+my_reading_academy,1172603,2nd Grade,School C,true
+my_math_academy,1172609,2nd Grade,School C,true
+my_reading_academy,1172609,2nd Grade,School C,true
+my_math_academy,1172617,2nd Grade,School C,true
+my_reading_academy,1172617,2nd Grade,School C,true
+my_math_academy,1172618,2nd Grade,School C,true
+my_reading_academy,1172618,2nd Grade,School C,true
+my_math_academy,1172619,2nd Grade,School C,true
+my_reading_academy,1172619,2nd Grade,School C,true
+my_math_academy,1172653,2nd Grade,School C,true
+my_reading_academy,1172653,2nd Grade,School C,true
+my_math_academy,1172696,2nd Grade,School C,true
+my_reading_academy,1172696,2nd Grade,School C,true
+my_math_academy,1172697,2nd Grade,School C,true
+my_reading_academy,1172697,2nd Grade,School C,true
+my_math_academy,1172700,2nd Grade,School C,true
+my_reading_academy,1172700,2nd Grade,School C,true
+my_math_academy,1172701,2nd Grade,School C,true
+my_reading_academy,1172701,2nd Grade,School C,true
+my_math_academy,1172703,2nd Grade,School C,true
+my_reading_academy,1172703,2nd Grade,School C,true
+my_math_academy,1172721,2nd Grade,School C,true
+my_reading_academy,1172721,2nd Grade,School C,true
+my_math_academy,1172722,2nd Grade,School C,true
+my_reading_academy,1172722,2nd Grade,School C,true
+my_math_academy,1172723,2nd Grade,School C,true
+my_reading_academy,1172723,2nd Grade,School C,true
+my_math_academy,1172724,2nd Grade,School C,true
+my_reading_academy,1172724,2nd Grade,School C,true
+my_math_academy,1172725,2nd Grade,School C,true
+my_reading_academy,1172725,2nd Grade,School C,true
+my_math_academy,1172726,2nd Grade,School C,true
+my_reading_academy,1172726,2nd Grade,School C,true
+my_math_academy,1172728,2nd Grade,School C,true
+my_reading_academy,1172728,2nd Grade,School C,true
+my_math_academy,1172745,2nd Grade,School C,true
+my_reading_academy,1172745,2nd Grade,School C,true
+my_math_academy,1172751,2nd Grade,School C,true
+my_reading_academy,1172751,2nd Grade,School C,true
+my_math_academy,1172760,2nd Grade,School C,true
+my_reading_academy,1172760,2nd Grade,School C,true
+my_math_academy,1172762,2nd Grade,School C,true
+my_reading_academy,1172762,2nd Grade,School C,false
+my_math_academy,1172764,2nd Grade,School C,true
+my_reading_academy,1172764,2nd Grade,School C,true
+my_math_academy,1172797,2nd Grade,School C,true
+my_reading_academy,1172797,2nd Grade,School C,true
+my_math_academy,1172799,2nd Grade,School C,true
+my_reading_academy,1172799,2nd Grade,School C,true
+my_math_academy,1172801,2nd Grade,School C,true
+my_reading_academy,1172801,2nd Grade,School C,true
+my_math_academy,1172808,2nd Grade,School C,true
+my_reading_academy,1172808,2nd Grade,School C,true
+my_math_academy,1172816,2nd Grade,School C,true
+my_reading_academy,1172816,2nd Grade,School C,true
+my_math_academy,1172818,2nd Grade,School C,true
+my_reading_academy,1172818,2nd Grade,School C,true
+my_math_academy,1172821,2nd Grade,School C,true
+my_reading_academy,1172821,2nd Grade,School C,true
+my_math_academy,1172828,2nd Grade,School C,true
+my_reading_academy,1172828,2nd Grade,School C,true
+my_math_academy,1172865,2nd Grade,School C,true
+my_reading_academy,1172865,2nd Grade,School C,true
+my_math_academy,1172867,2nd Grade,School C,true
+my_reading_academy,1172867,2nd Grade,School C,true
+my_math_academy,1172868,2nd Grade,School C,true
+my_reading_academy,1172868,2nd Grade,School C,true
+my_math_academy,1172871,2nd Grade,School C,true
+my_reading_academy,1172871,2nd Grade,School C,true
+my_math_academy,1172909,2nd Grade,School C,true
+my_reading_academy,1172909,2nd Grade,School C,true
+my_math_academy,1172910,2nd Grade,School C,true
+my_reading_academy,1172910,2nd Grade,School C,true
+my_math_academy,1172913,2nd Grade,School C,true
+my_reading_academy,1172913,2nd Grade,School C,true
+my_math_academy,1172914,2nd Grade,School C,true
+my_reading_academy,1172914,2nd Grade,School C,true
+my_math_academy,1172915,2nd Grade,School C,true
+my_reading_academy,1172915,2nd Grade,School C,true
+my_math_academy,1172916,2nd Grade,School C,true
+my_reading_academy,1172916,2nd Grade,School C,true
+my_math_academy,1172935,2nd Grade,School C,true
+my_reading_academy,1172935,2nd Grade,School C,true
+my_math_academy,1178578,2nd Grade,School C,true
+my_reading_academy,1178578,2nd Grade,School C,true
+my_math_academy,1423023,2nd Grade,School C,true
+my_reading_academy,1423023,2nd Grade,School C,true
+my_math_academy,1423032,2nd Grade,School C,true
+my_reading_academy,1423032,2nd Grade,School C,true
+my_math_academy,1423046,2nd Grade,School C,true
+my_reading_academy,1423046,2nd Grade,School C,true
+my_math_academy,1423054,2nd Grade,School C,true
+my_reading_academy,1423054,2nd Grade,School C,true
+my_math_academy,1423055,2nd Grade,School C,true
+my_reading_academy,1423055,2nd Grade,School C,true
+my_math_academy,1477815,2nd Grade,School C,true
+my_reading_academy,1477815,2nd Grade,School C,true
+my_math_academy,1668881,2nd Grade,School C,true
+my_reading_academy,1668881,2nd Grade,School C,true
+my_math_academy,1679715,2nd Grade,School C,true
+my_reading_academy,1679715,2nd Grade,School C,true
+my_math_academy,2096100,2nd Grade,School C,true
+my_reading_academy,2096100,2nd Grade,School C,true
+my_math_academy,2096132,2nd Grade,School C,true
+my_reading_academy,2096132,2nd Grade,School C,true
+my_math_academy,2096133,2nd Grade,School C,true
+my_reading_academy,2096133,2nd Grade,School C,true
+my_math_academy,2096142,2nd Grade,School C,true
+my_reading_academy,2096142,2nd Grade,School C,true
+my_math_academy,2096148,2nd Grade,School C,true
+my_reading_academy,2096148,2nd Grade,School C,true
+my_math_academy,2096151,2nd Grade,School C,true
+my_reading_academy,2096151,2nd Grade,School C,true
+my_math_academy,2096153,2nd Grade,School C,true
+my_reading_academy,2096153,2nd Grade,School C,true
+my_math_academy,2145340,2nd Grade,School C,true
+my_reading_academy,2145340,2nd Grade,School C,true
+my_math_academy,1172704,3rd Grade,School C,true
+my_reading_academy,1172704,3rd Grade,School C,true
+my_math_academy,1172860,3rd Grade,School C,false
+my_math_academy,1172908,3rd Grade,School C,false
+my_math_academy,1533491,3rd Grade,School C,false
+my_math_academy,1172587,4th Grade,School C,true
+my_reading_academy,1172587,4th Grade,School C,true
+my_math_academy,1172754,4th Grade,School C,false
+my_math_academy,1172850,5th Grade,School C,true
+my_reading_academy,1172850,5th Grade,School C,true
+my_math_academy,1172921,5th Grade,School C,true
+my_reading_academy,1172921,5th Grade,School C,true
+my_math_academy,1672562,5th Grade,School C,false
+my_math_academy,2267882,5th Grade,School C,true
+my_reading_academy,2267882,5th Grade,School C,false
+my_math_academy,1172824,Kindergarten,School C,true
+my_reading_academy,1172824,Kindergarten,School C,true
+my_math_academy,1423010,Kindergarten,School C,false
+my_reading_academy,1423010,Kindergarten,School C,true
+my_math_academy,1423011,Kindergarten,School C,true
+my_reading_academy,1423011,Kindergarten,School C,true
+my_math_academy,1423012,Kindergarten,School C,true
+my_reading_academy,1423012,Kindergarten,School C,true
+my_math_academy,1423013,Kindergarten,School C,true
+my_reading_academy,1423013,Kindergarten,School C,true
+my_math_academy,1423014,Kindergarten,School C,true
+my_reading_academy,1423014,Kindergarten,School C,true
+my_math_academy,1423015,Kindergarten,School C,true
+my_reading_academy,1423015,Kindergarten,School C,true
+my_math_academy,1423020,Kindergarten,School C,true
+my_reading_academy,1423020,Kindergarten,School C,true
+my_math_academy,1423030,Kindergarten,School C,true
+my_reading_academy,1423030,Kindergarten,School C,true
+my_math_academy,1423031,Kindergarten,School C,true
+my_reading_academy,1423031,Kindergarten,School C,true
+my_math_academy,1423033,Kindergarten,School C,true
+my_reading_academy,1423033,Kindergarten,School C,true
+my_math_academy,1423034,Kindergarten,School C,true
+my_reading_academy,1423034,Kindergarten,School C,true
+my_math_academy,1423035,Kindergarten,School C,true
+my_reading_academy,1423035,Kindergarten,School C,true
+my_math_academy,1423036,Kindergarten,School C,true
+my_reading_academy,1423036,Kindergarten,School C,true
+my_math_academy,1423037,Kindergarten,School C,true
+my_reading_academy,1423037,Kindergarten,School C,true
+my_math_academy,1423042,Kindergarten,School C,true
+my_reading_academy,1423042,Kindergarten,School C,true
+my_math_academy,1423043,Kindergarten,School C,true
+my_reading_academy,1423043,Kindergarten,School C,true
+my_math_academy,1423044,Kindergarten,School C,true
+my_reading_academy,1423044,Kindergarten,School C,true
+my_math_academy,1423045,Kindergarten,School C,true
+my_reading_academy,1423045,Kindergarten,School C,true
+my_math_academy,1423050,Kindergarten,School C,true
+my_reading_academy,1423050,Kindergarten,School C,true
+my_math_academy,1423051,Kindergarten,School C,true
+my_reading_academy,1423051,Kindergarten,School C,true
+my_math_academy,1423060,Kindergarten,School C,true
+my_reading_academy,1423060,Kindergarten,School C,true
+my_math_academy,1423061,Kindergarten,School C,true
+my_reading_academy,1423061,Kindergarten,School C,true
+my_math_academy,1423062,Kindergarten,School C,true
+my_reading_academy,1423062,Kindergarten,School C,true
+my_math_academy,1423063,Kindergarten,School C,true
+my_reading_academy,1423063,Kindergarten,School C,true
+my_math_academy,1423064,Kindergarten,School C,true
+my_reading_academy,1423064,Kindergarten,School C,true
+my_math_academy,1423065,Kindergarten,School C,true
+my_reading_academy,1423065,Kindergarten,School C,true
+my_math_academy,1423066,Kindergarten,School C,true
+my_reading_academy,1423066,Kindergarten,School C,true
+my_math_academy,1423067,Kindergarten,School C,true
+my_reading_academy,1423067,Kindergarten,School C,true
+my_math_academy,1423068,Kindergarten,School C,true
+my_reading_academy,1423068,Kindergarten,School C,true
+my_math_academy,1423069,Kindergarten,School C,true
+my_reading_academy,1423069,Kindergarten,School C,true
+my_math_academy,1423070,Kindergarten,School C,true
+my_reading_academy,1423070,Kindergarten,School C,true
+my_math_academy,1423072,Kindergarten,School C,true
+my_reading_academy,1423072,Kindergarten,School C,true
+my_math_academy,1423073,Kindergarten,School C,true
+my_reading_academy,1423073,Kindergarten,School C,true
+my_math_academy,1423074,Kindergarten,School C,true
+my_reading_academy,1423074,Kindergarten,School C,true
+my_math_academy,1423075,Kindergarten,School C,true
+my_reading_academy,1423075,Kindergarten,School C,true
+my_math_academy,1423076,Kindergarten,School C,true
+my_reading_academy,1423076,Kindergarten,School C,true
+my_math_academy,1423077,Kindergarten,School C,true
+my_reading_academy,1423077,Kindergarten,School C,true
+my_math_academy,1423078,Kindergarten,School C,true
+my_reading_academy,1423078,Kindergarten,School C,true
+my_math_academy,1423079,Kindergarten,School C,true
+my_reading_academy,1423079,Kindergarten,School C,true
+my_math_academy,1423080,Kindergarten,School C,true
+my_reading_academy,1423080,Kindergarten,School C,true
+my_math_academy,1423081,Kindergarten,School C,true
+my_reading_academy,1423081,Kindergarten,School C,true
+my_math_academy,1423082,Kindergarten,School C,true
+my_reading_academy,1423082,Kindergarten,School C,true
+my_math_academy,1423083,Kindergarten,School C,true
+my_reading_academy,1423083,Kindergarten,School C,true
+my_math_academy,1423085,Kindergarten,School C,true
+my_reading_academy,1423085,Kindergarten,School C,true
+my_math_academy,1423087,Kindergarten,School C,true
+my_reading_academy,1423087,Kindergarten,School C,true
+my_math_academy,1472391,Kindergarten,School C,true
+my_reading_academy,1472391,Kindergarten,School C,true
+my_math_academy,1477816,Kindergarten,School C,true
+my_reading_academy,1477816,Kindergarten,School C,true
+my_math_academy,1515950,Kindergarten,School C,true
+my_reading_academy,1515950,Kindergarten,School C,true
+my_math_academy,1539933,Kindergarten,School C,false
+my_reading_academy,1539933,Kindergarten,School C,true
+my_math_academy,1659330,Kindergarten,School C,true
+my_reading_academy,1659330,Kindergarten,School C,true
+my_math_academy,1669548,Kindergarten,School C,true
+my_reading_academy,1669548,Kindergarten,School C,true
+my_math_academy,1672154,Kindergarten,School C,true
+my_reading_academy,1672154,Kindergarten,School C,true
+my_math_academy,1672561,Kindergarten,School C,true
+my_reading_academy,1672561,Kindergarten,School C,true
+my_math_academy,1715530,Kindergarten,School C,true
+my_reading_academy,1715530,Kindergarten,School C,true
+my_math_academy,2096094,Kindergarten,School C,true
+my_reading_academy,2096094,Kindergarten,School C,true
+my_math_academy,2096097,Kindergarten,School C,true
+my_reading_academy,2096097,Kindergarten,School C,true
+my_math_academy,2096109,Kindergarten,School C,true
+my_reading_academy,2096109,Kindergarten,School C,true
+my_math_academy,2096117,Kindergarten,School C,true
+my_reading_academy,2096117,Kindergarten,School C,true
+my_math_academy,2096118,Kindergarten,School C,true
+my_reading_academy,2096118,Kindergarten,School C,true
+my_math_academy,2096119,Kindergarten,School C,true
+my_reading_academy,2096119,Kindergarten,School C,true
+my_math_academy,2096128,Kindergarten,School C,true
+my_reading_academy,2096128,Kindergarten,School C,true
+my_math_academy,2096129,Kindergarten,School C,true
+my_reading_academy,2096129,Kindergarten,School C,true
+my_math_academy,2096134,Kindergarten,School C,true
+my_reading_academy,2096134,Kindergarten,School C,true
+my_math_academy,2096149,Kindergarten,School C,true
+my_reading_academy,2096149,Kindergarten,School C,true
+my_math_academy,2096159,Kindergarten,School C,true
+my_reading_academy,2096159,Kindergarten,School C,true
+my_math_academy,2096162,Kindergarten,School C,true
+my_reading_academy,2096162,Kindergarten,School C,true
+my_math_academy,2096163,Kindergarten,School C,true
+my_reading_academy,2096163,Kindergarten,School C,true
+my_math_academy,2096167,Kindergarten,School C,true
+my_reading_academy,2096167,Kindergarten,School C,true
+my_math_academy,2267883,Kindergarten,School C,true
+my_reading_academy,2267883,Kindergarten,School C,true
+my_math_academy,2096092,Pre-K,School C,true
+my_reading_academy,2096092,Pre-K,School C,true
+my_math_academy,2096093,Pre-K,School C,true
+my_reading_academy,2096093,Pre-K,School C,true
+my_math_academy,2096095,Pre-K,School C,true
+my_reading_academy,2096095,Pre-K,School C,true
+my_math_academy,2096096,Pre-K,School C,true
+my_reading_academy,2096096,Pre-K,School C,true
+my_math_academy,2096098,Pre-K,School C,true
+my_reading_academy,2096098,Pre-K,School C,true
+my_math_academy,2096099,Pre-K,School C,true
+my_reading_academy,2096099,Pre-K,School C,true
+my_math_academy,2096101,Pre-K,School C,true
+my_reading_academy,2096101,Pre-K,School C,true
+my_math_academy,2096102,Pre-K,School C,true
+my_reading_academy,2096102,Pre-K,School C,true
+my_math_academy,2096103,Pre-K,School C,true
+my_reading_academy,2096103,Pre-K,School C,true
+my_math_academy,2096104,Pre-K,School C,true
+my_reading_academy,2096104,Pre-K,School C,true
+my_math_academy,2096105,Pre-K,School C,true
+my_reading_academy,2096105,Pre-K,School C,true
+my_math_academy,2096106,Pre-K,School C,true
+my_reading_academy,2096106,Pre-K,School C,true
+my_math_academy,2096108,Pre-K,School C,true
+my_reading_academy,2096108,Pre-K,School C,true
+my_math_academy,2096112,Pre-K,School C,true
+my_reading_academy,2096112,Pre-K,School C,true
+my_math_academy,2096114,Pre-K,School C,true
+my_reading_academy,2096114,Pre-K,School C,true
+my_math_academy,2096115,Pre-K,School C,true
+my_reading_academy,2096115,Pre-K,School C,true
+my_math_academy,2096116,Pre-K,School C,true
+my_reading_academy,2096116,Pre-K,School C,true
+my_math_academy,2096120,Pre-K,School C,true
+my_reading_academy,2096120,Pre-K,School C,true
+my_math_academy,2096121,Pre-K,School C,true
+my_reading_academy,2096121,Pre-K,School C,true
+my_math_academy,2096123,Pre-K,School C,true
+my_reading_academy,2096123,Pre-K,School C,true
+my_math_academy,2096124,Pre-K,School C,true
+my_reading_academy,2096124,Pre-K,School C,true
+my_math_academy,2096125,Pre-K,School C,true
+my_reading_academy,2096125,Pre-K,School C,true
+my_math_academy,2096126,Pre-K,School C,true
+my_reading_academy,2096126,Pre-K,School C,true
+my_math_academy,2096127,Pre-K,School C,true
+my_reading_academy,2096127,Pre-K,School C,true
+my_math_academy,2096135,Pre-K,School C,true
+my_reading_academy,2096135,Pre-K,School C,true
+my_math_academy,2096136,Pre-K,School C,true
+my_reading_academy,2096136,Pre-K,School C,true
+my_math_academy,2096137,Pre-K,School C,true
+my_reading_academy,2096137,Pre-K,School C,true
+my_math_academy,2096138,Pre-K,School C,true
+my_reading_academy,2096138,Pre-K,School C,true
+my_math_academy,2096139,Pre-K,School C,true
+my_reading_academy,2096139,Pre-K,School C,true
+my_math_academy,2096140,Pre-K,School C,true
+my_reading_academy,2096140,Pre-K,School C,true
+my_math_academy,2096145,Pre-K,School C,true
+my_reading_academy,2096145,Pre-K,School C,true
+my_math_academy,2096147,Pre-K,School C,true
+my_reading_academy,2096147,Pre-K,School C,true
+my_math_academy,2096150,Pre-K,School C,true
+my_reading_academy,2096150,Pre-K,School C,true
+my_math_academy,2096155,Pre-K,School C,true
+my_reading_academy,2096155,Pre-K,School C,true
+my_math_academy,2096156,Pre-K,School C,true
+my_reading_academy,2096156,Pre-K,School C,true
+my_math_academy,2096157,Pre-K,School C,true
+my_reading_academy,2096157,Pre-K,School C,true
+my_math_academy,2096160,Pre-K,School C,true
+my_reading_academy,2096160,Pre-K,School C,true
+my_math_academy,2096164,Pre-K,School C,true
+my_reading_academy,2096164,Pre-K,School C,true
+my_math_academy,2096168,Pre-K,School C,true
+my_reading_academy,2096168,Pre-K,School C,true
+my_math_academy,2096169,Pre-K,School C,true
+my_reading_academy,2096169,Pre-K,School C,true
+my_math_academy,2139692,Pre-K,School C,true
+my_reading_academy,2139692,Pre-K,School C,true
+my_math_academy,2193290,Pre-K,School C,true
+my_reading_academy,2193290,Pre-K,School C,true
