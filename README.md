@@ -49,7 +49,7 @@ The preprocessing phase addressed duplicates and missing values and created addi
 
 **Key Insights**
 
-Engagement was high during the pilot, with consistent weekly logins. Skill growth was significant in high-impact domains like Measurement, though there is room for improvement in foundational language. Outliers were identified among students with high growth and low usage, as well as those with low growth and high usage.
+Engagement was high during the pilot, with consistent weekly logins. Skill growth was significant in high-impact domains like Measurement, though there is room for improvement in foundational language. Outliers were identified among students with high growth and low usage and those with low growth and high usage.
 
 **Actionable Recommendations**
 
@@ -57,11 +57,11 @@ The recommendations include increasing post-placement engagement, refining curri
 
 **How to Use**
 
-Open the presentation file to view a concise overview of findings and recommendations. Use the Jupyter Notebook (AOFL_Interview.ipynb) to review the detailed analysis process, including data cleaning, exploration, and visualization. The Tableau workbook (Tableau AOFL.twb) contains interactive dashboards to complement the Python analysis, and the cleaned data file (cleaned_data.csv) is available for replication or additional analysis. Refer to the raw files for comparisons or further exploration.
+Open the presentation file to view a concise overview of findings and recommendations. Use the Jupyter Notebook (AOFL_Interview.ipynb) to review the detailed analysis process, including data cleaning, exploration, and visualization. The Tableau workbook (Tableau AOFL.twb) contains interactive dashboards to complement the Python analysis. The cleaned data file (cleaned_data.csv) is available for replication or additional analysis. You can refer to the raw files for comparisons or further exploration.
 
 **Notes for Reviewers**
 
-Tabs marked red in the Tableau workbook highlight discrepancies between Tableau and Python outputs. These differences are due to rounding or minor formula variations but do not impact overall conclusions. The Python notebook is fully documented, and the slides are tailored for both technical and non-technical audiences to emphasize storytelling with data.
+The Tableau workbook's red tabs highlight discrepancies between Tableau and Python outputs. If more time to complete the project was permitted, I'd investigate and resolve these differences. The Python notebook is fully documented, and the slides emphasize storytelling with data and are tailored for technical and non-technical audiences.
 
 **Contact**
 
