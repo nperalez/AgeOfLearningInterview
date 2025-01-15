@@ -1,75 +1,72 @@
 # AgeOfLearningInterview
 A collection of files and scratch work for Nick Peralez's Interview as a Senior Product Analyst at AOFL
 
-README for Age of Learning Pilot Data Analysis Submission
-
-Project Title
-
-Age of Learning Pilot Data Analysis - Nick Peralez - Senior Product Analyst Candidate
+Age of Learning Pilot Data Analysis - Nick Peralez
 
 Project Overview
 
-This repository contains my submission for the Senior Product Analyst position at Age of Learning. It showcases a comprehensive analysis of the provided pilot program data, which aimed to evaluate the impact of My Math Academy and My Reading Academy on student engagement and skill growth. This project combines Python scripts, Tableau visualizations, and a polished presentation to communicate key insights and actionable recommendations for a district-wide program rollout.
+This repository contains my submission for the Senior Product Analyst position at Age of Learning. It showcases a comprehensive analysis of the pilot program data, aimed at evaluating the impact of My Math Academy and My Reading Academy on student engagement and skill growth. The project combines Python scripts, Tableau visualizations, and a polished presentation to communicate key insights and actionable recommendations for a district-wide rollout.
 
 Contents
-	1.	Presentation:
-	•	File: Age of Learning Pilot Data Analysis - Nick Peralez - Senior Product Analyst.pptx
-	•	Description: A professional, customer-facing presentation summarizing the pilot’s outcomes, engagement trends, skill growth analysis, and actionable recommendations. Designed for a 20-25 minute discussion with time for Q&A.
-	2.	Python Analysis:
-	•	File: AOFL_Interview.ipynb
-	•	Description: Jupyter Notebook containing:
-	•	Data Cleaning: Removal of duplicates, filling null values, and creating cleaned_data.csv.
-	•	Exploration and Analysis: Metrics like total skills mastered, percentage skill growth, and usage patterns.
-	•	Visualizations: Scatter plots, heatmaps, bar charts, and outlier identification to provide deeper insights.
-	3.	Tableau Workbook:
-	•	File: Tableau AOFL.twb
-	•	Description: Tableau visualizations to validate Python analysis and create additional interactive dashboards.
-	•	Note: Tabs marked in red indicate areas where differences between Tableau and Python results exist. These discrepancies were not fully resolved due to time constraints but should not impact overall conclusions.
-	4.	Cleaned Data:
-	•	File: cleaned_data.csv
-	•	Description: Final dataset resulting from data cleaning and preprocessing in Python. This dataset was used consistently in both Python and Tableau analyses.
-	5.	Raw Data:
-	•	Files:
-	•	Age of Learning Student Usage.csv
-	•	Age of Learning Student Dimensions.csv
-	•	Age of Learning Skills by Domain.csv
-	•	Description: Raw datasets provided for analysis.
-	6.	Project Instructions:
-	•	File: Age of Learning Analytics Update Dec 2024.docx
-	•	Description: Original project guidelines and data dictionary outlining key metrics, objectives, and the purpose of the pilot program analysis.
+
+Presentation
+
+Age of Learning Pilot Data Analysis - Nick Peralez - Senior Product Analyst.pptx
+This professional presentation summarizes the pilot’s outcomes, engagement trends, skill growth analysis, and actionable recommendations. It is designed for a 20-25 minute discussion with time for Q&A.
+
+Python Analysis
+
+AOFL_Interview.ipynb
+The Jupyter Notebook contains data cleaning, exploration, analysis, and visualizations. Key metrics such as total skills mastered, percentage skill growth, and usage patterns are calculated and displayed using scatter plots, heatmaps, bar charts, and outlier identification.
+
+Tableau Workbook
+
+Tableau AOFL.twb
+This Tableau workbook includes interactive dashboards to validate Python analysis and provide additional insights. Tabs marked in red indicate unresolved discrepancies between Tableau and Python outputs due to time constraints.
+
+Cleaned Data
+
+cleaned_data.csv
+This is the final dataset resulting from preprocessing in Python, including the removal of duplicates and handling of missing values. It was used consistently for Python and Tableau analyses.
+
+Raw Data
+
+The raw datasets provided for the analysis include:
+Age of Learning Student Usage.csv
+Age of Learning Student Dimensions.csv
+Age of Learning Skills by Domain.csv
+
+Project Instructions
+
+Age of Learning Analytics Update Dec 2024.docx
+This document outlines the original project guidelines, key metrics, objectives, and purpose of the analysis.
 
 Key Highlights
-	1.	Data Cleaning and Preparation:
-	•	Addressed duplicates and missing values.
-	•	Created additional metrics, such as skills_mastered_per_week and total_skill_growth.
-	2.	Key Insights:
-	•	Engagement: Strong weekly logins and active participation during the pilot.
-	•	Skill Growth: Exceptional performance in high-impact domains like Measurement, with areas for improvement in foundational language.
-	•	Outliers: Identified and analyzed students with high growth but low usage and those with low growth despite high usage.
-	3.	Actionable Recommendations:
-	•	Increase post-placement engagement.
-	•	Refine curricula in low-performing domains.
-	•	Monitor outliers for targeted interventions.
+
+Data Cleaning and Preparation
+
+The preprocessing phase addressed duplicates and missing values and created additional metrics such as skills_mastered_per_week and total_skill_growth.
+
+Key Insights
+
+Engagement was high during the pilot, with consistent weekly logins. Skill growth was significant in high-impact domains like Measurement, though there is room for improvement in foundational language. Outliers were identified among students with high growth and low usage, as well as those with low growth and high usage.
+
+Actionable Recommendations
+
+The recommendations include increasing post-placement engagement, refining curricula in low-performing domains, and monitoring outliers for targeted interventions.
 
 How to Use
-	1.	Presentation:
-	•	Open Age of Learning Pilot Data Analysis - Nick Peralez - Senior Product Analyst.pptx for a concise overview of findings and recommendations.
-	2.	Python Notebook:
-	•	Use AOFL_Interview.ipynb to review the analysis process, including data cleaning, exploration, and visualization.
-	3.	Tableau Workbook:
-	•	Open Tableau AOFL.twb to explore interactive dashboards. Validate results by comparing to Python outputs in the notebook.
-	4.	Cleaned Data:
-	•	Use cleaned_data.csv as the primary dataset for replication or further analysis.
-	5.	Raw Data:
-	•	Refer to raw files for initial data exploration and as reference for preprocessing steps.
+
+Open the presentation file to view a concise overview of findings and recommendations. Use the Jupyter Notebook (AOFL_Interview.ipynb) to review the detailed analysis process, including data cleaning, exploration, and visualization. The Tableau workbook (Tableau AOFL.twb) contains interactive dashboards to complement the Python analysis, and the cleaned data file (cleaned_data.csv) is available for replication or additional analysis. Refer to the raw files for comparisons or further exploration.
 
 Notes for Reviewers
-	•	Tableau Discrepancies: Tabs marked red indicate minor differences between Python and Tableau outputs. These were due to rounding differences or minor formula variations.
-	•	Code Documentation: The Python notebook is fully commented, explaining each step in the analysis process.
-	•	Presentation Focus: The slides are tailored to engage both technical and non-technical stakeholders, emphasizing storytelling with data.
+
+Tabs marked red in the Tableau workbook highlight discrepancies between Tableau and Python outputs. These differences are due to rounding or minor formula variations but do not impact overall conclusions. The Python notebook is fully documented, and the slides are tailored for both technical and non-technical audiences to emphasize storytelling with data.
 
 Contact
 
-For further questions, please contact me:
-	•	Name: Nick Peralez
-	•	Email: nperalez@gmail.com
+Nick Peralez
+Email: [Your Email]
+Phone: [Your Phone Number]
+
+Let me know if further edits are needed!
